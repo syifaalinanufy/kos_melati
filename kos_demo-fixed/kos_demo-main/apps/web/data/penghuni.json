@@ -1,0 +1,230 @@
+{
+  "metadata": {
+    "sintetis": true,
+    "dibuat_oleh": "ml/buat_data.py",
+    "benih": 2026,
+    "keterangan": "Semua data fiktif untuk keperluan situs demo KosMudah. Tidak ada data pribadi asli."
+  },
+  "daftar_penghuni": [
+    {
+      "id": "PNH-01",
+      "nama": "Budi Nugroho",
+      "nomor_telepon": "0800-0001-9032",
+      "kamar_id": "KMR-01",
+      "nomor_kamar": "Kamar 01",
+      "tipe_kamar": "Standar",
+      "harga_sewa": 850000,
+      "tanggal_masuk": "2025-11-05",
+      "status": "aktif"
+    },
+    {
+      "id": "PNH-02",
+      "nama": "Rizky Kusuma",
+      "nomor_telepon": "0800-0002-7508",
+      "kamar_id": "KMR-02",
+      "nomor_kamar": "Kamar 02",
+      "tipe_kamar": "Standar",
+      "harga_sewa": 850000,
+      "tanggal_masuk": "2026-05-04",
+      "status": "aktif"
+    },
+    {
+      "id": "PNH-03",
+      "nama": "Maya Gunawan",
+      "nomor_telepon": "0800-0003-6843",
+      "kamar_id": "KMR-03",
+      "nomor_kamar": "Kamar 03",
+      "tipe_kamar": "Standar",
+      "harga_sewa": 850000,
+      "tanggal_masuk": "2025-09-06",
+      "status": "aktif"
+    },
+    {
+      "id": "PNH-04",
+      "nama": "Doni Permata",
+      "nomor_telepon": "0800-0004-9414",
+      "kamar_id": "KMR-04",
+      "nomor_kamar": "Kamar 04",
+      "tipe_kamar": "Standar",
+      "harga_sewa": 850000,
+      "tanggal_masuk": "2025-11-05",
+      "status": "aktif"
+    },
+    {
+      "id": "PNH-05",
+      "nama": "Rian Permata",
+      "nomor_telepon": "0800-0005-6577",
+      "kamar_id": "KMR-08",
+      "nomor_kamar": "Kamar 08",
+      "tipe_kamar": "Standar",
+      "harga_sewa": 850000,
+      "tanggal_masuk": "2026-08-02",
+      "status": "aktif"
+    },
+    {
+      "id": "PNH-06",
+      "nama": "Intan Setiawan",
+      "nomor_telepon": "0800-0006-5786",
+      "kamar_id": "KMR-09",
+      "nomor_kamar": "Kamar 09",
+      "tipe_kamar": "Menengah",
+      "harga_sewa": 1300000,
+      "tanggal_masuk": "2026-05-04",
+      "status": "aktif"
+    },
+    {
+      "id": "PNH-07",
+      "nama": "Andi Pratama",
+      "nomor_telepon": "0800-0007-6062",
+      "kamar_id": "KMR-10",
+      "nomor_kamar": "Kamar 10",
+      "tipe_kamar": "Menengah",
+      "harga_sewa": 1300000,
+      "tanggal_masuk": "2026-09-01",
+      "status": "aktif"
+    },
+    {
+      "id": "PNH-08",
+      "nama": "Maya Wulandari",
+      "nomor_telepon": "0800-0008-8554",
+      "kamar_id": "KMR-11",
+      "nomor_kamar": "Kamar 11",
+      "tipe_kamar": "Menengah",
+      "harga_sewa": 1300000,
+      "tanggal_masuk": "2026-03-05",
+      "status": "aktif"
+    },
+    {
+      "id": "PNH-09",
+      "nama": "Rian Hidayat",
+      "nomor_telepon": "0800-0009-9166",
+      "kamar_id": "KMR-13",
+      "nomor_kamar": "Kamar 13",
+      "tipe_kamar": "Menengah",
+      "harga_sewa": 1300000,
+      "tanggal_masuk": "2025-08-07",
+      "status": "aktif"
+    },
+    {
+      "id": "PNH-10",
+      "nama": "Dewi Hidayat",
+      "nomor_telepon": "0800-0010-9296",
+      "kamar_id": "KMR-14",
+      "nomor_kamar": "Kamar 14",
+      "tipe_kamar": "Menengah",
+      "harga_sewa": 1300000,
+      "tanggal_masuk": "2025-09-06",
+      "status": "aktif"
+    },
+    {
+      "id": "PNH-11",
+      "nama": "Lestari Gunawan",
+      "nomor_telepon": "0800-0011-9045",
+      "kamar_id": "KMR-15",
+      "nomor_kamar": "Kamar 15",
+      "tipe_kamar": "Menengah",
+      "harga_sewa": 1300000,
+      "tanggal_masuk": "2026-03-05",
+      "status": "aktif"
+    },
+    {
+      "id": "PNH-12",
+      "nama": "Hendra Saputra",
+      "nomor_telepon": "0800-0012-7880",
+      "kamar_id": "KMR-16",
+      "nomor_kamar": "Kamar 16",
+      "tipe_kamar": "Menengah",
+      "harga_sewa": 1300000,
+      "tanggal_masuk": "2025-12-05",
+      "status": "aktif"
+    },
+    {
+      "id": "PNH-13",
+      "nama": "Putri Setiawan",
+      "nomor_telepon": "0800-0013-9486",
+      "kamar_id": "KMR-17",
+      "nomor_kamar": "Kamar 17",
+      "tipe_kamar": "Menengah",
+      "harga_sewa": 1300000,
+      "tanggal_masuk": "2025-09-06",
+      "status": "aktif"
+    },
+    {
+      "id": "PNH-14",
+      "nama": "Budi Utami",
+      "nomor_telepon": "0800-0014-4678",
+      "kamar_id": "KMR-18",
+      "nomor_kamar": "Kamar 18",
+      "tipe_kamar": "Menengah",
+      "harga_sewa": 1300000,
+      "tanggal_masuk": "2025-09-06",
+      "status": "aktif"
+    },
+    {
+      "id": "PNH-15",
+      "nama": "Agus Nugroho",
+      "nomor_telepon": "0800-0015-1800",
+      "kamar_id": "KMR-19",
+      "nomor_kamar": "Kamar 19",
+      "tipe_kamar": "Utama",
+      "harga_sewa": 1850000,
+      "tanggal_masuk": "2025-10-06",
+      "status": "aktif"
+    },
+    {
+      "id": "PNH-16",
+      "nama": "Hendra Gunawan",
+      "nomor_telepon": "0800-0016-2680",
+      "kamar_id": "KMR-20",
+      "nomor_kamar": "Kamar 20",
+      "tipe_kamar": "Utama",
+      "harga_sewa": 1850000,
+      "tanggal_masuk": "2025-10-06",
+      "status": "aktif"
+    },
+    {
+      "id": "PNH-17",
+      "nama": "Lestari Hidayat",
+      "nomor_telepon": "0800-0017-8701",
+      "kamar_id": "KMR-21",
+      "nomor_kamar": "Kamar 21",
+      "tipe_kamar": "Utama",
+      "harga_sewa": 1850000,
+      "tanggal_masuk": "2026-07-03",
+      "status": "aktif"
+    },
+    {
+      "id": "PNH-18",
+      "nama": "Putri Gunawan",
+      "nomor_telepon": "0800-0018-4750",
+      "kamar_id": "KMR-22",
+      "nomor_kamar": "Kamar 22",
+      "tipe_kamar": "Utama",
+      "harga_sewa": 1850000,
+      "tanggal_masuk": "2025-08-07",
+      "status": "aktif"
+    },
+    {
+      "id": "PNH-19",
+      "nama": "Dewi Wijaya",
+      "nomor_telepon": "0800-0019-8484",
+      "kamar_id": "KMR-23",
+      "nomor_kamar": "Kamar 23",
+      "tipe_kamar": "Utama",
+      "harga_sewa": 1850000,
+      "tanggal_masuk": "2025-11-05",
+      "status": "aktif"
+    },
+    {
+      "id": "PNH-20",
+      "nama": "Putri Permata",
+      "nomor_telepon": "0800-0020-9939",
+      "kamar_id": "KMR-24",
+      "nomor_kamar": "Kamar 24",
+      "tipe_kamar": "Utama",
+      "harga_sewa": 1850000,
+      "tanggal_masuk": "2026-05-04",
+      "status": "aktif"
+    }
+  ]
+}

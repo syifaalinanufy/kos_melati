@@ -1,0 +1,11 @@
+{
+  "name": "kos-mudah-monorepo",
+  "private": true,
+  "scripts": {
+    "buat-data": "python ml/buat_data.py",
+    "salin-data": "powershell -Command \"New-Item -ItemType Directory -Force -Path 'apps/web/data' | Out-Null; Copy-Item -Path 'data/*.json' -Destination 'apps/web/data' -Force; Write-Host '[V] Data berhasil disalin ke apps/web/data'\"",
+    "dev": "pnpm --filter web dev",
+    "build": "pnpm --filter web build",
+    "test": "pnpm --filter web test"
+  }
+}

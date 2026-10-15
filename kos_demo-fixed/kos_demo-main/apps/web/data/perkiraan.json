@@ -1,0 +1,286 @@
+{
+  "sintetis": true,
+  "dibuat_oleh": "ml/buat_data.py",
+  "benih": 2026,
+  "keterangan": "Semua data fiktif untuk keperluan situs demo KosMudah. Tidak ada data pribadi asli.",
+  "sumber": "pra_hitung",
+  "wawasan": "Bulan Desember diprediksi sedikit menurun karena masa libur semester. Hunian akan kembali ramai pada bulan Februari saat perkuliahan dimulai.",
+  "okupansi": {
+    "satuan": "kamar",
+    "riwayat": [
+      {
+        "bulan": "2024-11",
+        "nilai": 18
+      },
+      {
+        "bulan": "2024-12",
+        "nilai": 15
+      },
+      {
+        "bulan": "2025-01",
+        "nilai": 15
+      },
+      {
+        "bulan": "2025-02",
+        "nilai": 19
+      },
+      {
+        "bulan": "2025-03",
+        "nilai": 19
+      },
+      {
+        "bulan": "2025-04",
+        "nilai": 19
+      },
+      {
+        "bulan": "2025-05",
+        "nilai": 18
+      },
+      {
+        "bulan": "2025-06",
+        "nilai": 16
+      },
+      {
+        "bulan": "2025-07",
+        "nilai": 22
+      },
+      {
+        "bulan": "2025-08",
+        "nilai": 21
+      },
+      {
+        "bulan": "2025-09",
+        "nilai": 22
+      },
+      {
+        "bulan": "2025-10",
+        "nilai": 17
+      },
+      {
+        "bulan": "2025-11",
+        "nilai": 18
+      },
+      {
+        "bulan": "2025-12",
+        "nilai": 15
+      },
+      {
+        "bulan": "2026-01",
+        "nilai": 15
+      },
+      {
+        "bulan": "2026-02",
+        "nilai": 18
+      },
+      {
+        "bulan": "2026-03",
+        "nilai": 19
+      },
+      {
+        "bulan": "2026-04",
+        "nilai": 18
+      },
+      {
+        "bulan": "2026-05",
+        "nilai": 17
+      },
+      {
+        "bulan": "2026-06",
+        "nilai": 15
+      },
+      {
+        "bulan": "2026-07",
+        "nilai": 21
+      },
+      {
+        "bulan": "2026-08",
+        "nilai": 22
+      },
+      {
+        "bulan": "2026-09",
+        "nilai": 22
+      },
+      {
+        "bulan": "2026-10",
+        "nilai": 18
+      }
+    ],
+    "perkiraan": [
+      {
+        "bulan": "2026-11",
+        "nilai": 20,
+        "batas_bawah": 18,
+        "batas_atas": 22
+      },
+      {
+        "bulan": "2026-12",
+        "nilai": 17,
+        "batas_bawah": 15,
+        "batas_atas": 19
+      },
+      {
+        "bulan": "2027-01",
+        "nilai": 18,
+        "batas_bawah": 16,
+        "batas_atas": 20
+      },
+      {
+        "bulan": "2027-02",
+        "nilai": 21,
+        "batas_bawah": 19,
+        "batas_atas": 23
+      },
+      {
+        "bulan": "2027-03",
+        "nilai": 21,
+        "batas_bawah": 19,
+        "batas_atas": 23
+      },
+      {
+        "bulan": "2027-04",
+        "nilai": 20,
+        "batas_bawah": 18,
+        "batas_atas": 22
+      }
+    ]
+  },
+  "pendapatan": {
+    "satuan": "rupiah",
+    "riwayat": [
+      {
+        "bulan": "2024-11",
+        "nilai": 22400000
+      },
+      {
+        "bulan": "2024-12",
+        "nilai": 19050000
+      },
+      {
+        "bulan": "2025-01",
+        "nilai": 19450000
+      },
+      {
+        "bulan": "2025-02",
+        "nilai": 23050000
+      },
+      {
+        "bulan": "2025-03",
+        "nilai": 23400000
+      },
+      {
+        "bulan": "2025-04",
+        "nilai": 23850000
+      },
+      {
+        "bulan": "2025-05",
+        "nilai": 22600000
+      },
+      {
+        "bulan": "2025-06",
+        "nilai": 19400000
+      },
+      {
+        "bulan": "2025-07",
+        "nilai": 26650000
+      },
+      {
+        "bulan": "2025-08",
+        "nilai": 25950000
+      },
+      {
+        "bulan": "2025-09",
+        "nilai": 27850000
+      },
+      {
+        "bulan": "2025-10",
+        "nilai": 21400000
+      },
+      {
+        "bulan": "2025-11",
+        "nilai": 22300000
+      },
+      {
+        "bulan": "2025-12",
+        "nilai": 18650000
+      },
+      {
+        "bulan": "2026-01",
+        "nilai": 18200000
+      },
+      {
+        "bulan": "2026-02",
+        "nilai": 22800000
+      },
+      {
+        "bulan": "2026-03",
+        "nilai": 24100000
+      },
+      {
+        "bulan": "2026-04",
+        "nilai": 22050000
+      },
+      {
+        "bulan": "2026-05",
+        "nilai": 20450000
+      },
+      {
+        "bulan": "2026-06",
+        "nilai": 18700000
+      },
+      {
+        "bulan": "2026-07",
+        "nilai": 25850000
+      },
+      {
+        "bulan": "2026-08",
+        "nilai": 27700000
+      },
+      {
+        "bulan": "2026-09",
+        "nilai": 27600000
+      },
+      {
+        "bulan": "2026-10",
+        "nilai": 23350000
+      }
+    ],
+    "perkiraan": [
+      {
+        "bulan": "2026-11",
+        "nilai": 25000000,
+        "batas_bawah": 22500000,
+        "batas_atas": 27500000
+      },
+      {
+        "bulan": "2026-12",
+        "nilai": 21500000,
+        "batas_bawah": 19000000,
+        "batas_atas": 24000000
+      },
+      {
+        "bulan": "2027-01",
+        "nilai": 22500000,
+        "batas_bawah": 20000000,
+        "batas_atas": 25000000
+      },
+      {
+        "bulan": "2027-02",
+        "nilai": 26000000,
+        "batas_bawah": 23500000,
+        "batas_atas": 28500000
+      },
+      {
+        "bulan": "2027-03",
+        "nilai": 26000000,
+        "batas_bawah": 23500000,
+        "batas_atas": 28500000
+      },
+      {
+        "bulan": "2027-04",
+        "nilai": 25000000,
+        "batas_bawah": 22500000,
+        "batas_atas": 27500000
+      }
+    ]
+  }
+}

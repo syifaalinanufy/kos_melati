@@ -1,0 +1,394 @@
+{
+  "metadata": {
+    "sintetis": true,
+    "dibuat_oleh": "ml/buat_data.py",
+    "benih": 2026,
+    "keterangan": "Semua data fiktif untuk keperluan situs demo KosMudah. Tidak ada data pribadi asli."
+  },
+  "daftar_kamar": [
+    {
+      "id": "KMR-01",
+      "nomor": "Kamar 01",
+      "lantai": 1,
+      "tipe": "Standar",
+      "harga_bulanan": 850000,
+      "ukuran": "3x3 meter",
+      "fasilitas": [
+        "Kasur busa empuk",
+        "Lemari pakaian 2 pintu",
+        "Meja belajar & kursi",
+        "Kipas angin gantung",
+        "Kamar mandi luar bersih"
+      ],
+      "terisi": true
+    },
+    {
+      "id": "KMR-02",
+      "nomor": "Kamar 02",
+      "lantai": 1,
+      "tipe": "Standar",
+      "harga_bulanan": 850000,
+      "ukuran": "3x3 meter",
+      "fasilitas": [
+        "Kasur busa empuk",
+        "Lemari pakaian 2 pintu",
+        "Meja belajar & kursi",
+        "Kipas angin gantung",
+        "Kamar mandi luar bersih"
+      ],
+      "terisi": true
+    },
+    {
+      "id": "KMR-03",
+      "nomor": "Kamar 03",
+      "lantai": 1,
+      "tipe": "Standar",
+      "harga_bulanan": 850000,
+      "ukuran": "3x3 meter",
+      "fasilitas": [
+        "Kasur busa empuk",
+        "Lemari pakaian 2 pintu",
+        "Meja belajar & kursi",
+        "Kipas angin gantung",
+        "Kamar mandi luar bersih"
+      ],
+      "terisi": true
+    },
+    {
+      "id": "KMR-04",
+      "nomor": "Kamar 04",
+      "lantai": 1,
+      "tipe": "Standar",
+      "harga_bulanan": 850000,
+      "ukuran": "3x3 meter",
+      "fasilitas": [
+        "Kasur busa empuk",
+        "Lemari pakaian 2 pintu",
+        "Meja belajar & kursi",
+        "Kipas angin gantung",
+        "Kamar mandi luar bersih"
+      ],
+      "terisi": true
+    },
+    {
+      "id": "KMR-05",
+      "nomor": "Kamar 05",
+      "lantai": 1,
+      "tipe": "Standar",
+      "harga_bulanan": 850000,
+      "ukuran": "3x3 meter",
+      "fasilitas": [
+        "Kasur busa empuk",
+        "Lemari pakaian 2 pintu",
+        "Meja belajar & kursi",
+        "Kipas angin gantung",
+        "Kamar mandi luar bersih"
+      ],
+      "terisi": false
+    },
+    {
+      "id": "KMR-06",
+      "nomor": "Kamar 06",
+      "lantai": 1,
+      "tipe": "Standar",
+      "harga_bulanan": 850000,
+      "ukuran": "3x3 meter",
+      "fasilitas": [
+        "Kasur busa empuk",
+        "Lemari pakaian 2 pintu",
+        "Meja belajar & kursi",
+        "Kipas angin gantung",
+        "Kamar mandi luar bersih"
+      ],
+      "terisi": false
+    },
+    {
+      "id": "KMR-07",
+      "nomor": "Kamar 07",
+      "lantai": 1,
+      "tipe": "Standar",
+      "harga_bulanan": 850000,
+      "ukuran": "3x3 meter",
+      "fasilitas": [
+        "Kasur busa empuk",
+        "Lemari pakaian 2 pintu",
+        "Meja belajar & kursi",
+        "Kipas angin gantung",
+        "Kamar mandi luar bersih"
+      ],
+      "terisi": false
+    },
+    {
+      "id": "KMR-08",
+      "nomor": "Kamar 08",
+      "lantai": 1,
+      "tipe": "Standar",
+      "harga_bulanan": 850000,
+      "ukuran": "3x3 meter",
+      "fasilitas": [
+        "Kasur busa empuk",
+        "Lemari pakaian 2 pintu",
+        "Meja belajar & kursi",
+        "Kipas angin gantung",
+        "Kamar mandi luar bersih"
+      ],
+      "terisi": true
+    },
+    {
+      "id": "KMR-09",
+      "nomor": "Kamar 09",
+      "lantai": 1,
+      "tipe": "Menengah",
+      "harga_bulanan": 1300000,
+      "ukuran": "3x4 meter",
+      "fasilitas": [
+        "Kasur springbed",
+        "Lemari pakaian cermin",
+        "Meja kerja luas",
+        "Kamar mandi dalam",
+        "Kipas angin / ventilasi lega"
+      ],
+      "terisi": true
+    },
+    {
+      "id": "KMR-10",
+      "nomor": "Kamar 10",
+      "lantai": 1,
+      "tipe": "Menengah",
+      "harga_bulanan": 1300000,
+      "ukuran": "3x4 meter",
+      "fasilitas": [
+        "Kasur springbed",
+        "Lemari pakaian cermin",
+        "Meja kerja luas",
+        "Kamar mandi dalam",
+        "Kipas angin / ventilasi lega"
+      ],
+      "terisi": true
+    },
+    {
+      "id": "KMR-11",
+      "nomor": "Kamar 11",
+      "lantai": 1,
+      "tipe": "Menengah",
+      "harga_bulanan": 1300000,
+      "ukuran": "3x4 meter",
+      "fasilitas": [
+        "Kasur springbed",
+        "Lemari pakaian cermin",
+        "Meja kerja luas",
+        "Kamar mandi dalam",
+        "Kipas angin / ventilasi lega"
+      ],
+      "terisi": true
+    },
+    {
+      "id": "KMR-12",
+      "nomor": "Kamar 12",
+      "lantai": 1,
+      "tipe": "Menengah",
+      "harga_bulanan": 1300000,
+      "ukuran": "3x4 meter",
+      "fasilitas": [
+        "Kasur springbed",
+        "Lemari pakaian cermin",
+        "Meja kerja luas",
+        "Kamar mandi dalam",
+        "Kipas angin / ventilasi lega"
+      ],
+      "terisi": false
+    },
+    {
+      "id": "KMR-13",
+      "nomor": "Kamar 13",
+      "lantai": 2,
+      "tipe": "Menengah",
+      "harga_bulanan": 1300000,
+      "ukuran": "3x4 meter",
+      "fasilitas": [
+        "Kasur springbed",
+        "Lemari pakaian cermin",
+        "Meja kerja luas",
+        "Kamar mandi dalam",
+        "Kipas angin / ventilasi lega"
+      ],
+      "terisi": true
+    },
+    {
+      "id": "KMR-14",
+      "nomor": "Kamar 14",
+      "lantai": 2,
+      "tipe": "Menengah",
+      "harga_bulanan": 1300000,
+      "ukuran": "3x4 meter",
+      "fasilitas": [
+        "Kasur springbed",
+        "Lemari pakaian cermin",
+        "Meja kerja luas",
+        "Kamar mandi dalam",
+        "Kipas angin / ventilasi lega"
+      ],
+      "terisi": true
+    },
+    {
+      "id": "KMR-15",
+      "nomor": "Kamar 15",
+      "lantai": 2,
+      "tipe": "Menengah",
+      "harga_bulanan": 1300000,
+      "ukuran": "3x4 meter",
+      "fasilitas": [
+        "Kasur springbed",
+        "Lemari pakaian cermin",
+        "Meja kerja luas",
+        "Kamar mandi dalam",
+        "Kipas angin / ventilasi lega"
+      ],
+      "terisi": true
+    },
+    {
+      "id": "KMR-16",
+      "nomor": "Kamar 16",
+      "lantai": 2,
+      "tipe": "Menengah",
+      "harga_bulanan": 1300000,
+      "ukuran": "3x4 meter",
+      "fasilitas": [
+        "Kasur springbed",
+        "Lemari pakaian cermin",
+        "Meja kerja luas",
+        "Kamar mandi dalam",
+        "Kipas angin / ventilasi lega"
+      ],
+      "terisi": true
+    },
+    {
+      "id": "KMR-17",
+      "nomor": "Kamar 17",
+      "lantai": 2,
+      "tipe": "Menengah",
+      "harga_bulanan": 1300000,
+      "ukuran": "3x4 meter",
+      "fasilitas": [
+        "Kasur springbed",
+        "Lemari pakaian cermin",
+        "Meja kerja luas",
+        "Kamar mandi dalam",
+        "Kipas angin / ventilasi lega"
+      ],
+      "terisi": true
+    },
+    {
+      "id": "KMR-18",
+      "nomor": "Kamar 18",
+      "lantai": 2,
+      "tipe": "Menengah",
+      "harga_bulanan": 1300000,
+      "ukuran": "3x4 meter",
+      "fasilitas": [
+        "Kasur springbed",
+        "Lemari pakaian cermin",
+        "Meja kerja luas",
+        "Kamar mandi dalam",
+        "Kipas angin / ventilasi lega"
+      ],
+      "terisi": true
+    },
+    {
+      "id": "KMR-19",
+      "nomor": "Kamar 19",
+      "lantai": 2,
+      "tipe": "Utama",
+      "harga_bulanan": 1850000,
+      "ukuran": "4x4 meter",
+      "fasilitas": [
+        "Kasur springbed queen",
+        "AC hemat listrik",
+        "Kamar mandi dalam + shower air hangat",
+        "Meja kerja ergonomis",
+        "Smart TV mini"
+      ],
+      "terisi": true
+    },
+    {
+      "id": "KMR-20",
+      "nomor": "Kamar 20",
+      "lantai": 2,
+      "tipe": "Utama",
+      "harga_bulanan": 1850000,
+      "ukuran": "4x4 meter",
+      "fasilitas": [
+        "Kasur springbed queen",
+        "AC hemat listrik",
+        "Kamar mandi dalam + shower air hangat",
+        "Meja kerja ergonomis",
+        "Smart TV mini"
+      ],
+      "terisi": true
+    },
+    {
+      "id": "KMR-21",
+      "nomor": "Kamar 21",
+      "lantai": 2,
+      "tipe": "Utama",
+      "harga_bulanan": 1850000,
+      "ukuran": "4x4 meter",
+      "fasilitas": [
+        "Kasur springbed queen",
+        "AC hemat listrik",
+        "Kamar mandi dalam + shower air hangat",
+        "Meja kerja ergonomis",
+        "Smart TV mini"
+      ],
+      "terisi": true
+    },
+    {
+      "id": "KMR-22",
+      "nomor": "Kamar 22",
+      "lantai": 2,
+      "tipe": "Utama",
+      "harga_bulanan": 1850000,
+      "ukuran": "4x4 meter",
+      "fasilitas": [
+        "Kasur springbed queen",
+        "AC hemat listrik",
+        "Kamar mandi dalam + shower air hangat",
+        "Meja kerja ergonomis",
+        "Smart TV mini"
+      ],
+      "terisi": true
+    },
+    {
+      "id": "KMR-23",
+      "nomor": "Kamar 23",
+      "lantai": 2,
+      "tipe": "Utama",
+      "harga_bulanan": 1850000,
+      "ukuran": "4x4 meter",
+      "fasilitas": [
+        "Kasur springbed queen",
+        "AC hemat listrik",
+        "Kamar mandi dalam + shower air hangat",
+        "Meja kerja ergonomis",
+        "Smart TV mini"
+      ],
+      "terisi": true
+    },
+    {
+      "id": "KMR-24",
+      "nomor": "Kamar 24",
+      "lantai": 2,
+      "tipe": "Utama",
+      "harga_bulanan": 1850000,
+      "ukuran": "4x4 meter",
+      "fasilitas": [
+        "Kasur springbed queen",
+        "AC hemat listrik",
+        "Kamar mandi dalam + shower air hangat",
+        "Meja kerja ergonomis",
+        "Smart TV mini"
+      ],
+      "terisi": true
+    }
+  ]
+}

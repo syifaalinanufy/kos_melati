@@ -1,0 +1,178 @@
+{
+  "metadata": {
+    "sintetis": true,
+    "dibuat_oleh": "ml/buat_data.py",
+    "benih": 2026,
+    "keterangan": "Semua data fiktif untuk keperluan situs demo KosMudah. Tidak ada data pribadi asli."
+  },
+  "riwayat_bulanan": [
+    {
+      "bulan": "2024-11",
+      "kamar_terisi": 18,
+      "total_kamar": 24,
+      "tingkat_hunian_persen": 75.0,
+      "pendapatan": 22400000
+    },
+    {
+      "bulan": "2024-12",
+      "kamar_terisi": 15,
+      "total_kamar": 24,
+      "tingkat_hunian_persen": 62.5,
+      "pendapatan": 19050000
+    },
+    {
+      "bulan": "2025-01",
+      "kamar_terisi": 15,
+      "total_kamar": 24,
+      "tingkat_hunian_persen": 62.5,
+      "pendapatan": 19450000
+    },
+    {
+      "bulan": "2025-02",
+      "kamar_terisi": 19,
+      "total_kamar": 24,
+      "tingkat_hunian_persen": 79.2,
+      "pendapatan": 23050000
+    },
+    {
+      "bulan": "2025-03",
+      "kamar_terisi": 19,
+      "total_kamar": 24,
+      "tingkat_hunian_persen": 79.2,
+      "pendapatan": 23400000
+    },
+    {
+      "bulan": "2025-04",
+      "kamar_terisi": 19,
+      "total_kamar": 24,
+      "tingkat_hunian_persen": 79.2,
+      "pendapatan": 23850000
+    },
+    {
+      "bulan": "2025-05",
+      "kamar_terisi": 18,
+      "total_kamar": 24,
+      "tingkat_hunian_persen": 75.0,
+      "pendapatan": 22600000
+    },
+    {
+      "bulan": "2025-06",
+      "kamar_terisi": 16,
+      "total_kamar": 24,
+      "tingkat_hunian_persen": 66.7,
+      "pendapatan": 19400000
+    },
+    {
+      "bulan": "2025-07",
+      "kamar_terisi": 22,
+      "total_kamar": 24,
+      "tingkat_hunian_persen": 91.7,
+      "pendapatan": 26650000
+    },
+    {
+      "bulan": "2025-08",
+      "kamar_terisi": 21,
+      "total_kamar": 24,
+      "tingkat_hunian_persen": 87.5,
+      "pendapatan": 25950000
+    },
+    {
+      "bulan": "2025-09",
+      "kamar_terisi": 22,
+      "total_kamar": 24,
+      "tingkat_hunian_persen": 91.7,
+      "pendapatan": 27850000
+    },
+    {
+      "bulan": "2025-10",
+      "kamar_terisi": 17,
+      "total_kamar": 24,
+      "tingkat_hunian_persen": 70.8,
+      "pendapatan": 21400000
+    },
+    {
+      "bulan": "2025-11",
+      "kamar_terisi": 18,
+      "total_kamar": 24,
+      "tingkat_hunian_persen": 75.0,
+      "pendapatan": 22300000
+    },
+    {
+      "bulan": "2025-12",
+      "kamar_terisi": 15,
+      "total_kamar": 24,
+      "tingkat_hunian_persen": 62.5,
+      "pendapatan": 18650000
+    },
+    {
+      "bulan": "2026-01",
+      "kamar_terisi": 15,
+      "total_kamar": 24,
+      "tingkat_hunian_persen": 62.5,
+      "pendapatan": 18200000
+    },
+    {
+      "bulan": "2026-02",
+      "kamar_terisi": 18,
+      "total_kamar": 24,
+      "tingkat_hunian_persen": 75.0,
+      "pendapatan": 22800000
+    },
+    {
+      "bulan": "2026-03",
+      "kamar_terisi": 19,
+      "total_kamar": 24,
+      "tingkat_hunian_persen": 79.2,
+      "pendapatan": 24100000
+    },
+    {
+      "bulan": "2026-04",
+      "kamar_terisi": 18,
+      "total_kamar": 24,
+      "tingkat_hunian_persen": 75.0,
+      "pendapatan": 22050000
+    },
+    {
+      "bulan": "2026-05",
+      "kamar_terisi": 17,
+      "total_kamar": 24,
+      "tingkat_hunian_persen": 70.8,
+      "pendapatan": 20450000
+    },
+    {
+      "bulan": "2026-06",
+      "kamar_terisi": 15,
+      "total_kamar": 24,
+      "tingkat_hunian_persen": 62.5,
+      "pendapatan": 18700000
+    },
+    {
+      "bulan": "2026-07",
+      "kamar_terisi": 21,
+      "total_kamar": 24,
+      "tingkat_hunian_persen": 87.5,
+      "pendapatan": 25850000
+    },
+    {
+      "bulan": "2026-08",
+      "kamar_terisi": 22,
+      "total_kamar": 24,
+      "tingkat_hunian_persen": 91.7,
+      "pendapatan": 27700000
+    },
+    {
+      "bulan": "2026-09",
+      "kamar_terisi": 22,
+      "total_kamar": 24,
+      "tingkat_hunian_persen": 91.7,
+      "pendapatan": 27600000
+    },
+    {
+      "bulan": "2026-10",
+      "kamar_terisi": 18,
+      "total_kamar": 24,
+      "tingkat_hunian_persen": 75.0,
+      "pendapatan": 23350000
+    }
+  ]
+}

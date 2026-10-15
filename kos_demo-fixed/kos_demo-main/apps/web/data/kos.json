@@ -1,0 +1,37 @@
+{
+  "sintetis": true,
+  "dibuat_oleh": "ml/buat_data.py",
+  "benih": 2026,
+  "keterangan": "Semua data fiktif untuk keperluan situs demo KosMudah. Tidak ada data pribadi asli.",
+  "id": "kos-melati-indah",
+  "nama": "Kos Melati Indah",
+  "tagline": "Kos Bersih, Tenang, dan Nyaman Dekat Kampus",
+  "deskripsi": "Kos contoh percontohan untuk mahasiswa dan pekerja muda dengan lingkungan asri, aman 24 jam, dan fasilitas lengkap.",
+  "tipe_kos": "Campur / Tersedia Paviliun Putra & Putri",
+  "total_kamar": 24,
+  "alamat": {
+    "jalan": "Jl. Mawar Melati No. 88 (Alamat Contoh)",
+    "kecamatan": "Kecamatan Contoh",
+    "kota": "Kota Pelajar",
+    "patokan": "5 menit jalan kaki dari gerbang kampus utama"
+  },
+  "fasilitas_umum": [
+    "WiFi kecepatan tinggi 100 Mbps",
+    "Dapur bersama (kompor, gas, kulkas)",
+    "Area parkir motor luas beratap",
+    "Penjaga & CCTV 24 jam",
+    "Ruang santai / belajar bersama",
+    "Mesin cuci bersama & tempat jemuran luas"
+  ],
+  "aturan": [
+    "Gerbang utama ditutup pukul 23.00 WIB (akses kunci pribadi jika lembur)",
+    "Tamu lawan jenis dilarang masuk ke dalam kamar tidur pribadi",
+    "Menjaga ketenangan bersama setelah pukul 22.00 WIB",
+    "Dilarang merokok di dalam kamar dan area ber-AC",
+    "Pembayaran sewa paling lambat tanggal 5 setiap bulannya"
+  ],
+  "kontak_tanya": {
+    "whatsapp": "0800-0000-0001 (Nomor Fiktif Demo)",
+    "jam_tanya": "08.00 - 20.00 WIB"
+  }
+}

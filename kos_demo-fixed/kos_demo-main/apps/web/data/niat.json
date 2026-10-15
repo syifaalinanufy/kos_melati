@@ -1,0 +1,2890 @@
+{
+  "metadata": {
+    "sintetis": true,
+    "dibuat_oleh": "ml/buat_data.py",
+    "benih": 2026,
+    "keterangan": "Semua data fiktif untuk keperluan situs demo KosMudah. Tidak ada data pribadi asli."
+  },
+  "data_niat": [
+    {
+      "teks": "min, halo selamat pagi kak",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "min, boleh pasang alat elektronik tambahan seperti dispenser?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Wah tempatnya bagus ya",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "min, info pricelist kamar kos terbaru dong kak.",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Permisi mau tanya sesuatu",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Kamar mandinya di dalam atau di luar? trims",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Apakah ada wifi dan parkiran motor yang aman?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "apakah boleh bawa hewan peliharaan seperti kucing?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "min, assalamu alaikum",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Siap nanti saya kabari lagi",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Apakah ada wifi dan parkiran motor yang aman?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "kamar kosong tersedia mulai tanggal berapa ya kak?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Biaya per bulan sudah termasuk listrik dan air belum?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "AC di kamar kurang dingin dan agak berisik suaranya. trims",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Apakah kamar mandi dalam masih ada yang kosong?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Genteng kamar sepertinya bocor ada rembesan air hujan. yaa",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "min, ada mesin cuci bersama untuk penghuni?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "tetangga kamar sebelah berisik banget stel musik larut malam.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "min, apakah ada potongan harga kalau bayar langsung per tahun?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Air di kamar mandi saya mati dari pagi tolong dicek. yaa",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Mau tanya ketersediaan kamar untuk mahasiswa baru. yaa",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Siap nanti saya kabari lagi trims",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Kamar tipe menengah masih ada yang ready? yaa",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Apakah disediakan kasur dan lemari pakaian?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "wifi kos tidak bisa konek sama sekali dari semalam.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Ada mesin cuci bersama untuk penghuni?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Selamat siang bapak ibu trims",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Lampu utama kamar saya kedip-kedip lalu mati. trims",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Apakah boleh bawa teman menginap di kamar?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Oke baik kak saya catat dulu",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "ada rincian harga untuk kamar ac dan non ac?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Kamar AC lantai satu masih tersedia?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Boleh masak di dalam kamar tidak ya? yaa",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Apakah boleh bawa hewan peliharaan seperti kucing?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "kunci pintu gerbang depan macet susah dibuka.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Wah tempatnya bagus ya",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "min, biaya per bulan sudah termasuk listrik dan air belum?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Apakah ada potongan harga kalau bayar langsung per tahun? trims",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Harga sewa kamar utama brp kak?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Gerbang kos dikunci jam berapa kalau pulang malam? yaa",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Terima kasih atas informasinya ya",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Apakah disediakan kasur dan lemari pakaian? yaa",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "min, kamar mandinya di dalam atau di luar?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Kamar tipe menengah masih ada yang ready?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Harga sewa kamar utama berapa kak? trims",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Aturan merokok di kosan bagaimana ya?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Permisi mau tanya sesuatu",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "bisa pasang ac sendiri di kamar standar?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Apakah masih ada kamar kosong untuk bulan ini? trims",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "min, boleh pasang alat elektronik tambahan seperti dispenser?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "min, boleh pasang alat elektronik tambahan seperti dispenser?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Kunci gerbang dipegang masing-masing anak kos atau bagaimana?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "assalamu alaikum",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Oke baik kak saya catat dulu yaa",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Jam malam di kos sampai jam berapa ya?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Apakah boleh bawa hewan peliharaan seperti kucing?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Tempat sampah di dapur bersama sudah penuh dan bau.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Berapa tarif sewa kamar mandi dalam? yaa",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Kamar kosong tersedia mulai tanggal berapa ya kak?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Air di kamar mandi saya mati dari pagi tolong dicek.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Lampu utama kamar saya kedip-kedip lalu mati. yaa",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "aturan merokok di kosan bagaimana ya?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "apakah disediakan kasur dan lemari pakaian?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "min, fasilitas kamarnya apa saja ya?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "min, aturan merokok di kosan bagaimana ya?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Tempat parkir muat untuk mobil tidak ya? trims",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Lampu utama kamar saya kedip-kedip lalu mati. trims",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Harga sewa kamar utama berapa kak? trims",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Berapa tarif sewa kamar mandi dalam?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "ac di kamar kurang dingin dan agak berisik suaranya.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Kunci pintu gerbang depan macet susah dibuka.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "AC di kamar kurang dingin dan agak berisik suaranya. trims",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Halo selamat pagi kak",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Saya mau survei, ada kamar kosong yang bisa dilihat? trims",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Apakah masih ada kamar kosong untuk bulan ini?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "min, ada sisa berapa kamar kosong sekarang?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "min, bisa pesan kamar kosong untuk mulai bulan depan?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "min, saya mau survei, ada kamar kosong yang bisa dilihat?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Ada fasilitas dapur bersama dan kulkas?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "bisa bayar sewa per 3 bulan atau harus per bulan?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "min, apakah boleh bawa teman menginap di kamar?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Kunci pintu gerbang depan macet susah dibuka. trims",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "min, apakah masih ada kamar kosong untuk bulan ini?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Biaya per bulan sudah termasuk listrik dan air belum? yaa",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Kamar kosong tersedia mulai tanggal berapa ya kak?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Oke baik kak saya catat dulu",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Fasilitas kamarnya ap aj ya?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "jam malam di kos sampai jam berapa ya?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Kamar mandinya di dalam atau di luar? yaa",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Boleh masak di dalam kamar nggak ya?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Tempat sampah di dapur bersama sudah penuh dan bau. trims",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Ada rincian harga untuk kamar AC dan non AC? trims",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Biaya per bulan sudah termasuk listrik dan air belum? trims",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Lampu utama kamar saya kedip-kedip lalu mati.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Sewa kamar per bulan brp ya?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "min, boleh masak di dalam kamar tidak ya?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Kunci pintu gerbang depan macet susah dibuka.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "min, assalamu alaikum",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Permisi mau tanya sesuatu yaa",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Bisa bayar sewa per 3 bulan atau harus per bulan?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Apakah disediakan kasur dan lemari pakaian? trims",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Halo selamat pagi kak",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "min, assalamu alaikum",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Kamar kosong tersedia mulai tanggal berapa ya kak?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Siap nanti saya kabari lagi yaa",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "min, ada rincian harga untuk kamar ac dan non ac?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Sampai jumpa lagi ya kak yaa",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Apakah kamar mandi dalam masih ada yang kosong? trims",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Apakah ada penjaga kos dan CCTV 24 jam?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Apakah ada penjaga kos dan CCTV 24 jam?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Fasilitas kamarnya apa saja ya? trims",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Biaya per bulan sudah termasuk listrik dan air belum?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "min, kecepatan wifi di sini berapa mbps ya?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Oke baik kak saya catat dulu trims",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Mau tanya ketersediaan kamar untuk mahasiswa baru. yaa",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Kamar mandinya di dalam atau di luar?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "ada sisa berapa kamar kosong sekarang?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Apakah masih ada kamar kosong untuk bulan ini?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Aturan untuk tamu lawan jenis seperti apa kak?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Ada rincian harga untuk kamar AC dan non AC? trims",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Halo selamat pagi kak yaa",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Apakah boleh bawa hewan peliharaan seperti kucing? trims",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Boleh pasang alat elektronik tambahan seperti dispenser?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Bisa pasang AC sendiri di kamar standar? trims",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "apakah disediakan kasur dan lemari pakaian?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Fasilitas kamarnya apa saja ya?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "berapa harga kamar paling murah di sini?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Saya mau survei, ada kamar kosong yang bisa dilihat? trims",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Jam malam di kos sampai jam brp ya?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "min, info pricelist kamar kos terbaru dong kak.",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Bisa pesan kamar kosong untuk mulai bulan depan?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Kran air di wastafel bocor dan menetes terus.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Berapa tarif sewa kamar mandi dalam? yaa",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "min, ada sisa berapa kamar kosong sekarang?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Apakah ada potongan harga kalau bayar langsung per tahun? trims",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Apakah ada wifi dan parkiran motor yang aman? trims",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Ada mesin cuci bersama untuk penghuni?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "min, bisa pasang ac sendiri di kamar standar?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Sampai jumpa lagi ya kak",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Kamar mandinya di dalam atau di luar?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Kamar mandinya di dalam atau di luar?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Bisa bayar sewa per 3 bulan atau harus per bulan?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Aturan untuk tamu lawan jenis seperti apa kak?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Siang kak kosannya buka jam berapa?",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Tempat sampah di dapur bersama sudah penuh dan bau.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Berapa tarif sewa kamar mandi dalam?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Saluran pembuangan air di kamar mandi agak mampet. trims",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Kamar mandinya di dalam atau di luar? trims",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Siang kak kosannya buka jam berapa?",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Apakah ada potongan harga kalau bayar langsung per tahun?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Apakah disediakan kasur dan lemari pakaian? trims",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "kamar ac lantai satu masih tersedia?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Apakah boleh bawa teman menginap di kamar?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Sampai jumpa lagi ya kak yaa",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Tetangga kamar sebelah berisik banget stel musik larut malam. trims",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Mau tanya ketersediaan kamar untuk mahasiswa baru.",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Ada sisa berapa kamar kosong sekarang? yaa",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Fasilitas kamarnya apa saja ya? trims",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Siap nanti saya kabari lagi",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Boleh masak di dalam kamar nggak ya?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Mau tanya ketersediaan kamar untuk mahasiswa baru. trims",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Biaya per bulan sudah termasuk listrik dan air belum?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Oke baik kak saya catat dulu trims",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "min, sampai jumpa lagi ya kak",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Fasilitas kamarnya apa saja ya?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Genteng kamar sepertinya bocor ada rembesan air hujan. trims",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "saya mau survei, ada kamar kosong yang bisa dilihat?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "kamar kosong tersedia mulai tanggal berapa ya kak?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "kunci gerbang dipegang masing-masing anak kos atau bagaimana?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "min, saya mau survei, ada kamar kosong yang bisa dilihat?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Fasilitas kamarnya apa saja ya?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Tempat parkir muat untuk mobil nggak ya?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "min, kamar ac lantai satu masih tersedia?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "bisa pesan kamar kosong untuk mulai bulan depan?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "mau tanya ketersediaan kamar untuk mahasiswa baru.",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Apakah masih ada kamar kosong untuk bulan ini? trims",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "min, sampai jumpa lagi ya kak",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "mau tanya ketersediaan kamar untuk mahasiswa baru.",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Kunci pintu gerbang depan macet susah dibuka.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Ada fasilitas dapur bersama dan kulkas?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Bisa bayar sewa per 3 bulan atau harus per bulan?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Kunci gerbang dipegang masing-masing anak kos atau bagaimana?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Mau tanya ketersediaan kamar untuk mahasiswa baru. yaa",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Saya mau survei, ada kamar kosong yang bisa dilihat? trims",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "min, tetangga kamar sebelah berisik banget stel musik larut malam.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Apakah ada potongan harga kalau bayar langsung per tahun?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "ada mesin cuci bersama untuk penghuni?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "min, genteng kamar sepertinya bocor ada rembesan air hujan.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Mau tanya ketersediaan kamar untuk mahasiswa baru. trims",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "AC di kamar kurang dingin dan agak berisik suaranya.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Berapa harga kamar paling murah di sini?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Permisi mau tanya sesuatu",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "info pricelist kamar kos terbaru dong kak.",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Tempat sampah di dapur bersama sudah penuh dan bau.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Assalamu alaikum yaa",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Biaya per bulan sudah termasuk listrik dan air belum?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "permisi mau tanya sesuatu",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Apakah boleh bawa hewan peliharaan seperti kucing?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Ada sisa berapa kamar kosong sekarang? yaa",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "WiFi kos tidak bisa konek sama sekali dari semalam. yaa",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Assalamu alaikum",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "min, gerbang kos dikunci jam berapa kalau pulang malam?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "min, apakah boleh bawa teman menginap di kamar?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "min, apakah masih ada kamar kosong untuk bulan ini?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Bisa pesan kamar kosong untuk mulai bulan depan?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "tempat sampah di dapur bersama sudah penuh dan bau.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Bisa pasang AC sendiri di kamar standar? yaa",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Kamar kosong tersedia mulai tanggal berapa ya kak? trims",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "min, apakah masih ada kamar kosong untuk bulan ini?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "min, apakah kamar mandi dalam masih ada yang kosong?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Apakah masih ada kamar kosong untuk bulan ini?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "wifi kos tidak bisa konek sama sekali dari semalam.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Jam malam di kos sampai jam berapa ya? trims",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "bisa pesan kamar kosong untuk mulai bulan depan?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Apakah ada potongan harga kalau bayar langsung per tahun?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "min, kran air di wastafel bocor dan menetes terus.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Tempat parkir muat untuk mobil tidak ya?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Assalamu alaikum",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Kunci gerbang dipegang masing-masing anak kos atau bagaimana?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Kamar kosong tersedia mulai tanggal berapa ya kak? trims",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Apakah ada potongan harga kalau bayar langsung per tahun?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Air di kamar mandi saya mati dari pagi tolong dicek. yaa",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Bagaimana aturan parkir kendaraan tamu? trims",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Sewa kamar per bulan berapa ya? trims",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "min, gerbang kos dikunci jam berapa kalau pulang malam?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "min, tetangga kamar sebelah berisik banget stel musik larut malam.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Berapa tarif sewa kamar mandi dalam? trims",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Selamat siang bapak ibu yaa",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "kunci pintu gerbang depan macet susah dibuka.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Bisa pesan kamar kosong untuk mulai bulan depan?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Fasilitas kamarnya apa saja ya? trims",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Apakah ada potongan harga kalau bayar langsung per tahun?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "min, ada fasilitas dapur bersama dan kulkas?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Bagaimana aturan parkir kendaraan tamu? trims",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Aturan untuk tamu lawan jenis seperti apa kak? yaa",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Apakah boleh bawa teman menginap di kamar?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Saya mau survei, ada kamar kosong yang bisa dilihat? trims",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "min, tetangga kamar sebelah berisik banget stel musik larut malam.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Aturan untuk tamu lawan jenis seperti apa kak?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "WiFi kos tidak bisa konek sama sekali dari semalam. trims",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "min, sampai jumpa lagi ya kak",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Saya mau survei, ada kamar kosong yang bisa dilihat? trims",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "min, fasilitas kamarnya apa saja ya?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Bagaimana aturan parkir kendaraan tamu? yaa",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Permisi mau tanya sesuatu",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "min, ada fasilitas dapur bersama dan kulkas?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Saya mau survei, ada kamar kosong yang bisa dilihat?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Apakah ada penjaga kos dan CCTV 24 jam?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Apakah ada wifi dan parkiran motor yang aman? trims",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Saya mau survei, ada kamar kosong yang bisa dilihat? yaa",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Wah tempatnya bagus ya",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Kamar mandinya di dalam atau di luar? yaa",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Saya mau survei, ada kamar kosong yang bisa dilihat? trims",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Assalamu alaikum yaa",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Siap nanti saya kabari lagi",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "apakah masih ada kamar kosong untuk bulan ini?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Apakah ada potongan harga kalau bayar langsung per tahun?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Kamar standar harganya brp sebulan?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "kamar standar harganya berapa sebulan?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Selamat siang bapak ibu trims",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Tempat parkir muat untuk mobil tidak ya? yaa",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "WiFi kos nggak bs konek sama sekali dari semalam.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Harga sewa kamar utama berapa kak? yaa",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Siap nanti saya kabari lagi yaa",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "apakah kamar mandi dalam masih ada yang kosong?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "min, gerbang kos dikunci jam berapa kalau pulang malam?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Apakah disediakan kasur dan lemari pakaian?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Saluran pembuangan air di kamar mandi agak mampet. yaa",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Aturan untuk tamu lawan jenis seperti apa kak?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Bagaimana aturan parkir kendaraan tamu? yaa",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Selamat siang bapak ibu",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Kamar mandinya di dalam atau di luar? yaa",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Apakah kamar mandi dalam masih ada yang kosong?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Bisa bayar sewa per 3 bulan atau harus per bulan?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "lampu utama kamar saya kedip-kedip lalu mati.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "apakah ada penjaga kos dan cctv 24 jam?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Harga sewa kamar utama berapa kak? yaa",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Masih bisa sewa kamar kosong sekarang? yaa",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "harga sewa kamar utama berapa kak?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Apakah ada penjaga kos dan CCTV 24 jam? trims",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Bisa pesan kamar kosong untuk mulai bulan depan?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "ada mesin cuci bersama untuk penghuni?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "min, air di kamar mandi saya mati dari pagi tolong dicek.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "kamar ac lantai satu masih tersedia?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Bisa pesan kamar kosong untuk mulai bulan depan? trims",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Harga sewa kamar utama brp kak?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Lampu utama kamar saya kedip-kedip lalu mati.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "min, apakah disediakan kasur dan lemari pakaian?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Fasilitas kamarnya apa saja ya?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Apakah ada wifi dan parkiran motor yang aman? trims",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Bisa pesan kamar kosong untuk mulai bulan depan? yaa",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Apakah kamar mandi dalam masih ada yang kosong?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Saluran pembuangan air di kamar mandi agak mampet.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Gerbang kos dikunci jam berapa kalau pulang malam?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Genteng kamar sepertinya bocor ada rembesan air hujan.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "harga sewa kamar utama berapa kak?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "min, oke baik kak saya catat dulu",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "apakah ada penjaga kos dan cctv 24 jam?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Apakah masih ada kamar kosong untuk bulan ini? trims",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Gerbang kos dikunci jam berapa kalau pulang malam?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Permisi mau tanya sesuatu yaa",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Ada sisa brp kamar kosong sekarang?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "min, bisa pasang ac sendiri di kamar standar?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "mau tanya ketersediaan kamar untuk mahasiswa baru.",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Kamar kosong tersedia mulai tanggal berapa ya kak?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Fasilitas kamarnya apa saja ya?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Apakah disediakan kasur dan lemari pakaian?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Bisa bayar sewa per 3 bulan atau harus per bulan?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Lampu utama kamar saya kedip-kedip lalu mati.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "WiFi kos nggak bs konek sama sekali dari semalam.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Ada sisa berapa kamar kosong sekarang?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Air di kamar mandi saya mati dari pagi tolong dicek. trims",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "min, kamar mandinya di dalam atau di luar?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Air di kamar mandi saya mati dari pagi tolong dicek. yaa",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "min, genteng kamar sepertinya bocor ada rembesan air hujan.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Mau tanya ketersediaan kamar untuk mahasiswa baru.",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "min, apakah masih ada kamar kosong untuk bulan ini?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Apakah kamar mandi dalam masih ada yang kosong?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "min, apakah boleh bawa teman menginap di kamar?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "berapa tarif sewa kamar mandi dalam?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Apakah kamar mandi dalam masih ada yang kosong? yaa",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Bagaimana aturan parkir kendaraan tamu?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "info pricelist kamar kos terbaru dong kak.",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Apakah ada penjaga kos dan CCTV 24 jam?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "min, aturan merokok di kosan bagaimana ya?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Apakah boleh bawa teman menginap di kamar?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Kamar standar harganya berapa sebulan? yaa",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Saluran pembuangan air di kamar mandi agak mampet.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Apakah kamar mandi dalam masih ada yang kosong? yaa",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "siang kak kosannya buka jam berapa?",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Mau tanya ketersediaan kamar untuk mahasiswa baru. trims",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Ada mesin cuci bersama untuk penghuni?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Harga sewa kamar utama berapa kak?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Apakah kamar mandi dalam masih ada yang kosong?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "min, gerbang kos dikunci jam berapa kalau pulang malam?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Biaya per bulan sudah termasuk listrik dan air belum? trims",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Siang kak kosannya buka jam berapa?",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "min, terima kasih atas informasinya ya",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Assalamu alaikum",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "min, ac di kamar kurang dingin dan agak berisik suaranya.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "assalamu alaikum",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "halo selamat pagi kak",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Kran air di wastafel bocor dan menetes terus. yaa",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "boleh pasang alat elektronik tambahan seperti dispenser?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Boleh masak di dalam kamar nggak ya?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "ada sisa berapa kamar kosong sekarang?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Kecepatan WiFi di sini berapa Mbps ya? yaa",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Tempat parkir muat untuk mobil tidak ya?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Tetangga kamar sebelah berisik banget stel musik larut malam. yaa",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Genteng kamar sepertinya bocor ada rembesan air hujan.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Aturan untuk tamu lawan jenis seperti apa kak?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "AC di kamar kurang dingin dan agak berisik suaranya.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Selamat siang bapak ibu yaa",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Saya mau survei, ada kamar kosong yang bs dilihat?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Saluran pembuangan air di kamar mandi agak mampet.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Bisa bayar sewa per 3 bulan atau harus per bulan?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Apakah boleh bawa teman menginap di kamar? yaa",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "gerbang kos dikunci jam berapa kalau pulang malam?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Apakah boleh bawa teman menginap di kamar?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "kran air di wastafel bocor dan menetes terus.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "min, kamar standar harganya berapa sebulan?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "min, kran air di wastafel bocor dan menetes terus.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Kamar mandinya di dalam atau di luar?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Terima kasih atas informasinya ya",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Berapa harga kamar paling murah di sini?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "kecepatan wifi di sini berapa mbps ya?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Kecepatan WiFi di sini berapa Mbps ya? yaa",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Fasilitas kamarnya apa saja ya? trims",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Berapa tarif sewa kamar mandi dalam?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Genteng kamar sepertinya bocor ada rembesan air hujan.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Harga sewa kamar utama berapa kak? yaa",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Boleh masak di dalam kamar tidak ya? yaa",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Saya mau survei, ada kamar kosong yang bisa dilihat? trims",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Kunci pintu gerbang depan macet susah dibuka.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Air di kamar mandi saya mati dari pagi tolong dicek. yaa",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Kunci gerbang dipegang masing-masing anak kos atau bagaimana?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "min, info pricelist kamar kos terbaru dong kak.",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Jam malam di kos sampai jam berapa ya?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Apakah ada potongan harga kalau bayar langsung per tahun?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Harga sewa kamar utama berapa kak? yaa",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "kamar ac lantai satu masih tersedia?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Biaya per bulan sudah termasuk listrik dan air belum?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Kamar mandinya di dalam atau di luar? yaa",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Kunci gerbang dipegang masing-masing anak kos atau bagaimana? trims",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Ada mesin cuci bersama untuk penghuni?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Siang kak kosannya buka jam berapa?",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Kecepatan WiFi di sini berapa Mbps ya? trims",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Apakah masih ada kamar kosong untuk bulan ini? yaa",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Apakah boleh bawa hewan peliharaan seperti kucing? yaa",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Kamar mandinya di dalam atau di luar? yaa",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Kamar kosong tersedia mulai tanggal berapa ya kak? yaa",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "WiFi kos tidak bisa konek sama sekali dari semalam. trims",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Sewa kamar per bulan berapa ya? yaa",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "min, ada fasilitas dapur bersama dan kulkas?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Genteng kamar sepertinya bocor ada rembesan air hujan. trims",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Ada rincian harga untuk kamar AC dan non AC? yaa",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "jam malam di kos sampai jam berapa ya?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Ada fasilitas dapur bersama dan kulkas?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Apakah boleh bawa hewan peliharaan seperti kucing?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Harga sewa kamar utama berapa kak?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Apakah boleh bawa teman menginap di kamar? yaa",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Ada rincian harga untuk kamar AC dan non AC? yaa",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "assalamu alaikum",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Apakah masih ada kamar kosong untuk bulan ini?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Bisa pasang AC sendiri di kamar standar? trims",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Bisa pasang AC sendiri di kamar standar?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "apakah boleh bawa teman menginap di kamar?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Ada rincian harga untuk kamar AC dan non AC?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Oke baik kak saya catat dulu",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Bisa bayar sewa per 3 bulan atau harus per bulan? trims",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Lampu utama kamar saya kedip-kedip lalu mati.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Ada fasilitas dapur bersama dan kulkas?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Kunci pintu gerbang depan macet susah dibuka.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Oke baik kak saya catat dulu",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "AC di kamar kurang dingin dan agak berisik suaranya.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Kamar AC lantai satu masih tersedia? trims",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Bisa bayar sewa per 3 bulan atau harus per bulan?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Berapa harga kamar paling murah di sini? yaa",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "min, apakah ada wifi dan parkiran motor yang aman?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Wah tempatnya bagus ya",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Kamar standar harganya berapa sebulan? yaa",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Kamar mandinya di dalam atau di luar? trims",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Tempat parkir muat untuk mobil tidak ya? yaa",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "min, saya mau survei, ada kamar kosong yang bisa dilihat?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Permisi mau tanya sesuatu",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "AC di kamar kurang dingin dan agak berisik suaranya. yaa",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Assalamu alaikum",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "oke baik kak saya catat dulu",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "sewa kamar per bulan berapa ya?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Kamar AC lantai satu masih tersedia?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Gerbang kos dikunci jam berapa kalau pulang malam? trims",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Tetangga kamar sebelah berisik banget stel musik larut malam. yaa",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Siang kak kosannya buka jam berapa? yaa",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Harga sewa kamar utama berapa kak?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "tempat sampah di dapur bersama sudah penuh dan bau.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "kecepatan wifi di sini berapa mbps ya?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Kran air di wastafel bocor dan menetes terus. trims",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "min, boleh masak di dalam kamar tidak ya?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Ada rincian harga untuk kamar AC dan non AC?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Kran air di wastafel bocor dan menetes terus.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Apakah masih ada kamar kosong untuk bulan ini?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Bisa bayar sewa per 3 bulan atau harus per bulan? yaa",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "min, apakah boleh bawa hewan peliharaan seperti kucing?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Selamat siang bapak ibu",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Wah tempatnya bagus ya yaa",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "min, jam malam di kos sampai jam berapa ya?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "bisa pasang ac sendiri di kamar standar?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "siap nanti saya kabari lagi",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Berapa harga kamar paling murah di sini?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Genteng kamar sepertinya bocor ada rembesan air hujan. trims",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Berapa tarif sewa kamar mandi dalam?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Kamar tipe menengah masih ada yang ready?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "min, ada fasilitas dapur bersama dan kulkas?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "apakah ada penjaga kos dan cctv 24 jam?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Apakah ada penjaga kos dan CCTV 24 jam? trims",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Kunci pintu gerbang depan macet susah dibuka.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "min, ada fasilitas dapur bersama dan kulkas?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "min, sampai jumpa lagi ya kak",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "min, bagaimana aturan parkir kendaraan tamu?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "min, terima kasih atas informasinya ya",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Sampai jumpa lagi ya kak trims",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Aturan untuk tamu lawan jenis seperti apa kak? trims",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Selamat siang bapak ibu",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Gerbang kos dikunci jam berapa kalau pulang malam? trims",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Siang kak kosannya buka jam berapa?",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Kamar kosong tersedia mulai tanggal berapa ya kak?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Kunci gerbang dipegang masing-masing anak kos atau bagaimana?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Saluran pembuangan air di kamar mandi agak mampet.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Boleh masak di dalam kamar tidak ya? yaa",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Siap nanti saya kabari lagi yaa",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Tetangga kamar sebelah berisik banget stel musik larut malam.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Bisa pesan kamar kosong untuk mulai bulan depan?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Halo selamat pagi kak",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "min, biaya per bulan sudah termasuk listrik dan air belum?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Harga sewa kamar utama berapa kak? yaa",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Kunci gerbang dipegang masing-masing anak kos atau bagaimana? yaa",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Kunci pintu gerbang depan macet susah dibuka. yaa",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Berapa harga kamar paling murah di sini?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Saluran pembuangan air di kamar mandi agak mampet. trims",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Oke baik kak saya catat dulu",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Halo selamat pagi kak",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "wifi kos tidak bisa konek sama sekali dari semalam.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "tetangga kamar sebelah berisik banget stel musik larut malam.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Sampai jumpa lagi ya kak yaa",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "air di kamar mandi saya mati dari pagi tolong dicek.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Boleh masak di dalam kamar tidak ya?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "min, aturan untuk tamu lawan jenis seperti apa kak?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Jam malam di kos sampai jam berapa ya?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Ada rincian harga untuk kamar AC dan non AC?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Saya mau survei, ada kamar kosong yang bisa dilihat? trims",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "min, tempat sampah di dapur bersama sudah penuh dan bau.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Aturan merokok di kosan bagaimana ya?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "tetangga kamar sebelah berisik banget stel musik larut malam.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Saluran pembuangan air di kamar mandi agak mampet. trims",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "boleh masak di dalam kamar tidak ya?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "wifi kos tidak bisa konek sama sekali dari semalam.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Apakah masih ada kamar kosong untuk bulan ini?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Bisa bayar sewa per 3 bulan atau harus per bulan?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "gerbang kos dikunci jam berapa kalau pulang malam?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Siang kak kosannya buka jam berapa?",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Info pricelist kamar kos terbaru dong kak.",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "masih bisa sewa kamar kosong sekarang?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Kamar standar harganya berapa sebulan?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Permisi mau tanya sesuatu",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Kunci pintu gerbang depan macet susah dibuka. trims",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "min, halo selamat pagi kak",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Assalamu alaikum",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "min, kamar standar harganya berapa sebulan?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "min, ada mesin cuci bersama untuk penghuni?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Permisi mau tanya sesuatu trims",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Saya mau survei, ada kamar kosong yang bisa dilihat?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Tempat sampah di dapur bersama sudah penuh dan bau. yaa",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "kran air di wastafel bocor dan menetes terus.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Terima kasih atas informasinya ya",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Gerbang kos dikunci jam berapa kalau pulang malam?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Aturan untuk tamu lawan jenis seperti apa kak? trims",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Halo selamat pagi kak trims",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Lampu utama kamar saya kedip-kedip lalu mati.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Apakah ada penjaga kos dan CCTV 24 jam?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "min, siang kak kosannya buka jam berapa?",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Apakah ada penjaga kos dan CCTV 24 jam? trims",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "min, biaya per bulan sudah termasuk listrik dan air belum?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Berapa harga kamar paling murah di sini?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Kecepatan WiFi di sini brp Mbps ya?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Oke baik kak saya catat dulu yaa",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Sewa kamar per bulan berapa ya? yaa",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "min, kamar kosong tersedia mulai tanggal berapa ya kak?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Kamar kosong tersedia mulai tanggal berapa ya kak? yaa",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Ada fasilitas dapur bersama dan kulkas?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Apakah boleh bawa teman menginap di kamar? trims",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Masih bs sewa kamar kosong sekarang?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Terima kasih atas informasinya ya",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Tempat parkir muat untuk mobil tidak ya? trims",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Ada rincian harga untuk kamar AC dan non AC?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Halo selamat pagi kak",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Kunci pintu gerbang depan macet susah dibuka.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "min, sewa kamar per bulan berapa ya?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Kamar kosong tersedia mulai tanggal berapa ya kak? trims",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "WiFi kos tidak bisa konek sama sekali dari semalam. yaa",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "WiFi kos tidak bisa konek sama sekali dari semalam. yaa",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Apakah boleh bawa teman menginap di kamar?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Gerbang kos dikunci jam brp kalau pulang malam?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Oke baik kak saya catat dulu",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "kamar kosong tersedia mulai tanggal berapa ya kak?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Tetangga kamar sebelah berisik banget stel musik larut malam.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Bagaimana aturan parkir kendaraan tamu?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "kran air di wastafel bocor dan menetes terus.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Bisa pasang AC sendiri di kamar standar?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Boleh masak di dalam kamar tidak ya? trims",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "kamar tipe menengah masih ada yang ready?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Sampai jumpa lagi ya kak trims",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "min, saluran pembuangan air di kamar mandi agak mampet.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Fasilitas kamarnya apa saja ya? yaa",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "saya mau survei, ada kamar kosong yang bisa dilihat?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "bisa bayar sewa per 3 bulan atau harus per bulan?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "min, ada rincian harga untuk kamar ac dan non ac?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "fasilitas kamarnya apa saja ya?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Kunci gerbang dipegang masing-masing anak kos atau bagaimana?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "min, kamar standar harganya berapa sebulan?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Harga sewa kamar utama berapa kak?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Air di kamar mandi saya mati dari pagi tolong dicek. yaa",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Kamar AC lantai satu masih tersedia?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Siap nanti saya kabari lagi trims",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "min, ada fasilitas dapur bersama dan kulkas?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "min, ada fasilitas dapur bersama dan kulkas?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "min, bisa pasang ac sendiri di kamar standar?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Apakah disediakan kasur dan lemari pakaian?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Boleh pasang alat elektronik tambahan seperti dispenser?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Tetangga kamar sebelah berisik banget stel musik larut malam.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Gerbang kos dikunci jam berapa kalau pulang malam?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Boleh masak di dalam kamar tidak ya? trims",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "boleh pasang alat elektronik tambahan seperti dispenser?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "min, harga sewa kamar utama berapa kak?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Apakah disediakan kasur dan lemari pakaian?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Air di kamar mandi saya mati dari pagi tolong dicek. yaa",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Terima kasih atas informasinya ya yaa",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "AC di kamar kurang dingin dan agak berisik suaranya.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "air di kamar mandi saya mati dari pagi tolong dicek.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "min, wah tempatnya bagus ya",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Apakah kamar mandi dalam masih ada yang kosong? yaa",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "min, apakah boleh bawa teman menginap di kamar?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "apakah disediakan kasur dan lemari pakaian?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "min, sampai jumpa lagi ya kak",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Apakah kamar mandi dalam masih ada yang kosong? trims",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "min, aturan merokok di kosan bagaimana ya?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "min, assalamu alaikum",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Boleh masak di dalam kamar tidak ya?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Berapa harga kamar paling murah di sini?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Siap nanti saya kabari lagi",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Assalamu alaikum trims",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Halo selamat pagi kak",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Aturan untuk tamu lawan jenis seperti apa kak? trims",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Kecepatan WiFi di sini berapa Mbps ya?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "min, terima kasih atas informasinya ya",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Boleh masak di dalam kamar tidak ya?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Ada fasilitas dapur bersama dan kulkas? trims",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Berapa tarif sewa kamar mandi dalam?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Apakah masih ada kamar kosong untuk bulan ini? yaa",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Apakah ada potongan harga kalau bayar langsung per tahun?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Gerbang kos dikunci jam berapa kalau pulang malam? yaa",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Boleh masak di dalam kamar tidak ya? yaa",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "gerbang kos dikunci jam berapa kalau pulang malam?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "ac di kamar kurang dingin dan agak berisik suaranya.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Lampu utama kamar saya kedip-kedip lalu mati. yaa",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Kunci gerbang dipegang masing-masing anak kos atau bagaimana?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "min, permisi mau tanya sesuatu",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Terima kasih atas informasinya ya trims",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Bisa bayar sewa per 3 bulan atau harus per bulan? trims",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Apakah ada potongan harga kalau bayar langsung per tahun?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Bisa pesan kamar kosong untuk mulai bulan depan? trims",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Berapa harga kamar paling murah di sini?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Aturan untuk tamu lawan jenis seperti apa kak? trims",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Apakah kamar mandi dalam masih ada yang kosong? yaa",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Kamar standar harganya berapa sebulan? trims",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Selamat siang bapak ibu trims",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Boleh masak di dalam kamar tidak ya?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Kamar mandinya di dalam atau di luar?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "min, bisa pasang ac sendiri di kamar standar?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Aturan untuk tamu lawan jenis seperti apa kak?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Wah tempatnya bagus ya trims",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "min, bisa pesan kamar kosong untuk mulai bulan depan?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Air di kamar mandi saya mati dari pagi tolong dicek.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Tempat parkir muat untuk mobil tidak ya?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "min, bisa bayar sewa per 3 bulan atau harus per bulan?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "lampu utama kamar saya kedip-kedip lalu mati.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "WiFi kos tidak bisa konek sama sekali dari semalam.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "min, kunci pintu gerbang depan macet susah dibuka.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "min, apakah masih ada kamar kosong untuk bulan ini?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Saluran pembuangan air di kamar mandi agak mampet. trims",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "bisa pesan kamar kosong untuk mulai bulan depan?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Ada mesin cuci bersama untuk penghuni? trims",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Masih bisa sewa kamar kosong sekarang?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "berapa tarif sewa kamar mandi dalam?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "min, apakah ada penjaga kos dan cctv 24 jam?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Bisa bayar sewa per 3 bulan atau harus per bulan?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "min, kamar standar harganya berapa sebulan?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Apakah ada penjaga kos dan CCTV 24 jam?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Kamar standar harganya berapa sebulan?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Saya mau survei, ada kamar kosong yang bisa dilihat?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "WiFi kos nggak bs konek sama sekali dari semalam.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "AC di kamar kurang dingin dan agak berisik suaranya.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "min, selamat siang bapak ibu",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "min, wah tempatnya bagus ya",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "min, tempat sampah di dapur bersama sudah penuh dan bau.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Sewa kamar per bulan berapa ya? trims",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "min, fasilitas kamarnya apa saja ya?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Berapa tarif sewa kamar mandi dalam?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Boleh pasang alat elektronik tambahan seperti dispenser?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Aturan untuk tamu lawan jenis seperti apa kak? yaa",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Apakah boleh bawa teman menginap di kamar?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Kran air di wastafel bocor dan menetes terus.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Aturan merokok di kosan bagaimana ya?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "info pricelist kamar kos terbaru dong kak.",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Ada fasilitas dapur bersama dan kulkas?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Tempat parkir muat untuk mobil tidak ya?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Tetangga kamar sebelah berisik banget stel musik larut malam. trims",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Ada sisa berapa kamar kosong sekarang? trims",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "gerbang kos dikunci jam berapa kalau pulang malam?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Ada mesin cuci bersama untuk penghuni? trims",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "min, bisa pesan kamar kosong untuk mulai bulan depan?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Kecepatan WiFi di sini berapa Mbps ya? trims",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "kran air di wastafel bocor dan menetes terus.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "min, kamar ac lantai satu masih tersedia?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Siang kak kosannya buka jam berapa?",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Kunci gerbang dipegang masing-masing anak kos atau bagaimana? yaa",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Gerbang kos dikunci jam berapa kalau pulang malam? yaa",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Boleh pasang alat elektronik tambahan seperti dispenser?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "min, apakah ada penjaga kos dan cctv 24 jam?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Sewa kamar per bulan berapa ya?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Kunci gerbang dipegang masing-masing anak kos atau bagaimana? yaa",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "apakah masih ada kamar kosong untuk bulan ini?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Apakah boleh bawa hewan peliharaan seperti kucing? yaa",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "min, tempat sampah di dapur bersama sudah penuh dan bau.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "min, sampai jumpa lagi ya kak",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Masih bisa sewa kamar kosong sekarang? yaa",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Saya mau survei, ada kamar kosong yang bisa dilihat?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "min, apakah kamar mandi dalam masih ada yang kosong?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Boleh masak di dalam kamar nggak ya?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "apakah disediakan kasur dan lemari pakaian?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Halo selamat pagi kak",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Saya mau survei, ada kamar kosong yang bisa dilihat? yaa",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "min, halo selamat pagi kak",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Apakah boleh bawa hewan peliharaan seperti kucing? trims",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "siang kak kosannya buka jam berapa?",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "sampai jumpa lagi ya kak",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Tempat sampah di dapur bersama sudah penuh dan bau.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "kunci pintu gerbang depan macet susah dibuka.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Kamar standar harganya berapa sebulan?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Kamar standar harganya berapa sebulan? yaa",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "min, kecepatan wifi di sini berapa mbps ya?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Apakah ada potongan harga kalau bayar langsung per tahun? trims",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "min, tetangga kamar sebelah berisik banget stel musik larut malam.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "min, wah tempatnya bagus ya",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Saya mau survei, ada kamar kosong yang bisa dilihat?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "selamat siang bapak ibu",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Siang kak kosannya buka jam berapa?",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Bisa pasang AC sendiri di kamar standar?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "saya mau survei, ada kamar kosong yang bisa dilihat?",
+      "niat": "tanya_kamar_kosong"
+    },
+    {
+      "teks": "Terima kasih atas informasinya ya",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "AC di kamar kurang dingin dan agak berisik suaranya. yaa",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Berapa harga kamar paling murah di sini? trims",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Permisi mau tanya sesuatu trims",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "min, sampai jumpa lagi ya kak",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Apakah ada potongan harga kalau bayar langsung per tahun? trims",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Apakah boleh bawa teman menginap di kamar?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "min, saluran pembuangan air di kamar mandi agak mampet.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Assalamu alaikum",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Boleh pasang alat elektronik tambahan seperti dispenser?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Gerbang kos dikunci jam berapa kalau pulang malam?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Kunci pintu gerbang depan macet susah dibuka.",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "Aturan merokok di kosan bagaimana ya?",
+      "niat": "tanya_aturan"
+    },
+    {
+      "teks": "Fasilitas kamarnya apa saja ya?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Biaya per bulan sudah termasuk listrik dan air belum?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Biaya per bulan sudah termasuk listrik dan air belum? trims",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "Sewa kamar per bulan berapa ya?",
+      "niat": "tanya_harga"
+    },
+    {
+      "teks": "min, terima kasih atas informasinya ya",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "WiFi kos tidak bisa konek sama sekali dari semalam. yaa",
+      "niat": "keluhan"
+    },
+    {
+      "teks": "apakah disediakan kasur dan lemari pakaian?",
+      "niat": "tanya_fasilitas"
+    },
+    {
+      "teks": "Siang kak kosannya buka jam brp?",
+      "niat": "lainnya"
+    },
+    {
+      "teks": "Berapa harga kamar paling murah di sini?",
+      "niat": "tanya_harga"
+    }
+  ]
+}

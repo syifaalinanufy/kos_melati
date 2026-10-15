@@ -1,0 +1,4810 @@
+{
+  "metadata": {
+    "sintetis": true,
+    "dibuat_oleh": "ml/buat_data.py",
+    "benih": 2026,
+    "keterangan": "Semua data fiktif untuk keperluan situs demo KosMudah. Tidak ada data pribadi asli."
+  },
+  "daftar_ulasan": [
+    {
+      "id": "ULS-0458",
+      "nama_penulis": "Dimas R.",
+      "teks": "Sebenarnya, kamar mandi luar lumayan terawat, jarang antre.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-06-13"
+    },
+    {
+      "id": "ULS-0545",
+      "nama_penulis": "Doni W.",
+      "teks": "Ada penghuni kamar sebelah yang suka berisik dan stel musik malam-malam.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-05-13"
+    },
+    {
+      "id": "ULS-0106",
+      "nama_penulis": "Intan R.",
+      "teks": "Sangat recommended untuk anak rantau yang butuh suasana belajar tenang. (banget)",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-07-08"
+    },
+    {
+      "id": "ULS-0203",
+      "nama_penulis": "Doni S.",
+      "teks": "Sudah setahun ngekos di sini dan selalu puas dengan pelayanannya.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-07-18"
+    },
+    {
+      "id": "ULS-0212",
+      "nama_penulis": "Lestari S.",
+      "teks": "Sebenarnya, lingkungan tenang, aman, parkiran motor luas dan ada cctv.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-08-20"
+    },
+    {
+      "id": "ULS-0433",
+      "nama_penulis": "Doni S.",
+      "teks": "Harga sewa tergolong standar di daerah sekitar kampus.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-06-13"
+    },
+    {
+      "id": "ULS-0242",
+      "nama_penulis": "Rina K.",
+      "teks": "Bapak dan ibu kos ramah sekali, selalu sigap kalau ada kendala fasilitas.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-05-09"
+    },
+    {
+      "id": "ULS-0123",
+      "nama_penulis": "Dewi K.",
+      "teks": "Kamar sangat bersih dan nyaman, betah tinggal di sini.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-09-13"
+    },
+    {
+      "id": "ULS-0209",
+      "nama_penulis": "Doni G.",
+      "teks": "Sudah setahun ngekos di sini dan selalu puas dengan pelayanannya.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-08-31"
+    },
+    {
+      "id": "ULS-0006",
+      "nama_penulis": "Bayu S.",
+      "teks": "Sudah setahun ngekos di sini dan selalu puas dengan pelayanannya.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-04-25"
+    },
+    {
+      "id": "ULS-0529",
+      "nama_penulis": "Rizky P.",
+      "teks": "Air sempat mati kemarin pagi dan agak lama nyalanya.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-07-07"
+    },
+    {
+      "id": "ULS-0270",
+      "nama_penulis": "Agus L.",
+      "teks": "Menurut saya, udara di kos segar, ventilasi kamar bagus dan tidak pengap.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-08-19"
+    },
+    {
+      "id": "ULS-0094",
+      "nama_penulis": "Hendra R.",
+      "teks": "Udara di kos segar, ventilasi kamar bagus dan tidak pengap.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-09-02"
+    },
+    {
+      "id": "ULS-0113",
+      "nama_penulis": "Bayu W.",
+      "teks": "Sangat recommended untuk anak rantau yang butuh suasana belajar tenang.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-04-26"
+    },
+    {
+      "id": "ULS-0003",
+      "nama_penulis": "Doni P.",
+      "teks": "Lingkungan tenang, aman, parkiran motor luas dan ada CCTV.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-09-06"
+    },
+    {
+      "id": "ULS-0127",
+      "nama_penulis": "Nadia P.",
+      "teks": "Bapak dan ibu kos ramah sekali, selalu sigap kalau ada kendala fasilitas. (agak)",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-08-21"
+    },
+    {
+      "id": "ULS-0398",
+      "nama_penulis": "Eko S.",
+      "teks": "Banget, secara umum biasa saja, tidak ada yang terlalu istimewa tapi cukup baik.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-09-21"
+    },
+    {
+      "id": "ULS-0574",
+      "nama_penulis": "Putri R.",
+      "teks": "Lumayan, air sempat mati kemarin pagi dan agak lama nyalanya.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-05-05"
+    },
+    {
+      "id": "ULS-0115",
+      "nama_penulis": "Dewi H.",
+      "teks": "Kamar sangat bersih dan nyaman, betah tinggal di sini.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-08-15"
+    },
+    {
+      "id": "ULS-0313",
+      "nama_penulis": "Fitri H.",
+      "teks": "Sangat recommended untuk anak rantau yang butuh suasana belajar tenang.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-05-13"
+    },
+    {
+      "id": "ULS-0426",
+      "nama_penulis": "Maya W.",
+      "teks": "Dapur bersama cukup bersih, tapi sesekali ada yang lupa cuci piring.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-06-22"
+    },
+    {
+      "id": "ULS-0360",
+      "nama_penulis": "Doni L.",
+      "teks": "Kamar lumayan nyaman, fasilitas standar sesuai harga.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-07-17"
+    },
+    {
+      "id": "ULS-0375",
+      "nama_penulis": "Siti N.",
+      "teks": "Pokoknya, kamar mandi luar lumayan terawat, jarang antre.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-08-04"
+    },
+    {
+      "id": "ULS-0512",
+      "nama_penulis": "Doni R.",
+      "teks": "Harga naik sedikit tapi kecepatan internet belum ada peningkatan.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-05-16"
+    },
+    {
+      "id": "ULS-0598",
+      "nama_penulis": "Dewi W.",
+      "teks": "Tekanan air kran kamar mandi sangat kecil kalau pagi hari. (menurut saya)",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-06-01"
+    },
+    {
+      "id": "ULS-0085",
+      "nama_penulis": "Budi S.",
+      "teks": "Kamar sangat bersih dan nyaman, betah tinggal di sini. (sih)",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-08-10"
+    },
+    {
+      "id": "ULS-0273",
+      "nama_penulis": "Rian W.",
+      "teks": "Sangat recommended untuk anak rantau yang butuh suasana belajar tenang.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-06-15"
+    },
+    {
+      "id": "ULS-0404",
+      "nama_penulis": "Budi P.",
+      "teks": "Dapur bersama cukup bersih, tapi sesekali ada yang lupa cuci piring.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-05-16"
+    },
+    {
+      "id": "ULS-0324",
+      "nama_penulis": "Tiara G.",
+      "teks": "Bapak dan ibu kos ramah sekali, selalu sigap kalau ada kendala fasilitas.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-10-06"
+    },
+    {
+      "id": "ULS-0507",
+      "nama_penulis": "Rina U.",
+      "teks": "Secara umum biasa saja, tidak ada yang terlalu istimewa tapi cukup baik. (menurut saya)",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-10-02"
+    },
+    {
+      "id": "ULS-0553",
+      "nama_penulis": "Rizky S.",
+      "teks": "Beneran, harga naik sedikit tapi kecepatan internet belum ada peningkatan.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-06-22"
+    },
+    {
+      "id": "ULS-0271",
+      "nama_penulis": "Rizky S.",
+      "teks": "Fasilitas lengkap sesuai harga, air lancar dan kamar mandi terawat.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-07-25"
+    },
+    {
+      "id": "ULS-0564",
+      "nama_penulis": "Dewi H.",
+      "teks": "Air sempat mati kemarin pagi dan agak lama nyalanya. (menurut saya)",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-05-02"
+    },
+    {
+      "id": "ULS-0406",
+      "nama_penulis": "Intan N.",
+      "teks": "Air lancar, tapi tekanan shower di lantai 2 agak kecil.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-07-27"
+    },
+    {
+      "id": "ULS-0222",
+      "nama_penulis": "Fajar U.",
+      "teks": "Udara di kos segar, ventilasi kamar bagus dan tidak pengap.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-08-18"
+    },
+    {
+      "id": "ULS-0416",
+      "nama_penulis": "Rizky K.",
+      "teks": "Kamar mandi luar lumayan terawat, jarang antre.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-09-07"
+    },
+    {
+      "id": "ULS-0104",
+      "nama_penulis": "Putri N.",
+      "teks": "Agak, sudah setahun ngekos di sini dan selalu puas dengan pelayanannya.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-08-15"
+    },
+    {
+      "id": "ULS-0436",
+      "nama_penulis": "Tiara P.",
+      "teks": "Tempatnya oke, cuma kalau malam parkiran motor agak penuh.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-06-20"
+    },
+    {
+      "id": "ULS-0245",
+      "nama_penulis": "Bayu N.",
+      "teks": "Agak, dapur bersama bersih dan peralatan masaknya lengkap.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-09-10"
+    },
+    {
+      "id": "ULS-0332",
+      "nama_penulis": "Rian S.",
+      "teks": "Tempatnya oke, cuma kalau malam parkiran motor agak penuh.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-10-11"
+    },
+    {
+      "id": "ULS-0182",
+      "nama_penulis": "Andi S.",
+      "teks": "Bapak dan ibu kos ramah sekali, selalu sigap kalau ada kendala fasilitas.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-08-06"
+    },
+    {
+      "id": "ULS-0395",
+      "nama_penulis": "Rizky S.",
+      "teks": "Tempatnya oke, cuma kalau malam parkiran motor agak penuh. (sebenarnya)",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-05-08"
+    },
+    {
+      "id": "ULS-0223",
+      "nama_penulis": "Fajar R.",
+      "teks": "Overall, fasilitas lengkap sesuai harga, air lancar dan kamar mandi terawat.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-05-23"
+    },
+    {
+      "id": "ULS-0525",
+      "nama_penulis": "Bayu R.",
+      "teks": "Parkiran motor sempit kalau semua penghuni bawa motor.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-08-08"
+    },
+    {
+      "id": "ULS-0159",
+      "nama_penulis": "Hendra L.",
+      "teks": "Kamar sangat bersih dan nyaman, betah tinggal di sini.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-08-11"
+    },
+    {
+      "id": "ULS-0145",
+      "nama_penulis": "Rizky W.",
+      "teks": "Lingkungan tenang, aman, parkiran motor luas dan ada CCTV. (banget)",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-09-28"
+    },
+    {
+      "id": "ULS-0128",
+      "nama_penulis": "Ayu H.",
+      "teks": "Dapur bersama bersih dan peralatan masaknya lengkap. (menurut saya)",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-09-19"
+    },
+    {
+      "id": "ULS-0069",
+      "nama_penulis": "Putri K.",
+      "teks": "Beneran, dapur bersama bersih dan peralatan masaknya lengkap.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-04-28"
+    },
+    {
+      "id": "ULS-0193",
+      "nama_penulis": "Dimas S.",
+      "teks": "Dapur bersama bersih dan peralatan masaknya lengkap.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-09-18"
+    },
+    {
+      "id": "ULS-0107",
+      "nama_penulis": "Rina K.",
+      "teks": "Sangat recommended untuk anak rantau yang butuh suasana belajar tenang.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-08-30"
+    },
+    {
+      "id": "ULS-0378",
+      "nama_penulis": "Andi S.",
+      "teks": "Dapur bersama cukup bersih, tapi sesekali ada yang lupa cuci piring. (agak)",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-06-11"
+    },
+    {
+      "id": "ULS-0297",
+      "nama_penulis": "Tiara H.",
+      "teks": "Sebenarnya, bapak dan ibu kos ramah sekali, selalu sigap kalau ada kendala fasilitas.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-09-12"
+    },
+    {
+      "id": "ULS-0196",
+      "nama_penulis": "Eko K.",
+      "teks": "WiFi super kencang, sangat membantu untuk kuliah online dan ngerjain skripsi. (sebenarnya)",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-08-24"
+    },
+    {
+      "id": "ULS-0293",
+      "nama_penulis": "Lestari P.",
+      "teks": "Sudah setahun ngekos di sini dan selalu puas dengan pelayanannya.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-04-25"
+    },
+    {
+      "id": "ULS-0302",
+      "nama_penulis": "Tiara U.",
+      "teks": "Udara di kos segar, ventilasi kamar bagus dan tidak pengap.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-06-23"
+    },
+    {
+      "id": "ULS-0098",
+      "nama_penulis": "Dimas P.",
+      "teks": "Beneran, lokasi strategis banget, jalan kaki ke kampus cuma 5 menit.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-10-05"
+    },
+    {
+      "id": "ULS-0047",
+      "nama_penulis": "Eko L.",
+      "teks": "Lokasi strategis banget, jalan kaki ke kampus cuma 5 menit.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-10-05"
+    },
+    {
+      "id": "ULS-0329",
+      "nama_penulis": "Fitri S.",
+      "teks": "Menurut saya, lingkungan tenang, aman, parkiran motor luas dan ada cctv.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-08-09"
+    },
+    {
+      "id": "ULS-0097",
+      "nama_penulis": "Hendra S.",
+      "teks": "Banget, kamar sangat bersih dan nyaman, betah tinggal di sini.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-09-01"
+    },
+    {
+      "id": "ULS-0567",
+      "nama_penulis": "Eko H.",
+      "teks": "Tekanan air kran kamar mandi sangat kecil kalau pagi hari.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-05-14"
+    },
+    {
+      "id": "ULS-0506",
+      "nama_penulis": "Dimas K.",
+      "teks": "Beneran, penjaga kos cukup ramah walau kadang susah ditemui pas siang.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-07-10"
+    },
+    {
+      "id": "ULS-0040",
+      "nama_penulis": "Dewi P.",
+      "teks": "Pokoknya, lokasi strategis banget, jalan kaki ke kampus cuma 5 menit.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-10-12"
+    },
+    {
+      "id": "ULS-0397",
+      "nama_penulis": "Maya P.",
+      "teks": "Tempatnya oke, cuma kalau malam parkiran motor agak penuh. (menurut saya)",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-07-05"
+    },
+    {
+      "id": "ULS-0460",
+      "nama_penulis": "Lestari N.",
+      "teks": "Lokasi strategis, hanya saja suara kendaraan dari jalan raya kadang terdengar.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-10-07"
+    },
+    {
+      "id": "ULS-0440",
+      "nama_penulis": "Nadia L.",
+      "teks": "Lumayan, kamar mandi luar lumayan terawat, jarang antre.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-07-22"
+    },
+    {
+      "id": "ULS-0305",
+      "nama_penulis": "Budi N.",
+      "teks": "Agak, kamar sangat bersih dan nyaman, betah tinggal di sini.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-09-02"
+    },
+    {
+      "id": "ULS-0532",
+      "nama_penulis": "Budi W.",
+      "teks": "Parkiran motor sempit kalau semua penghuni bawa motor.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-06-20"
+    },
+    {
+      "id": "ULS-0359",
+      "nama_penulis": "Dewi S.",
+      "teks": "Dapur bersama cukup bersih, tapi sesekali ada yang lupa cuci piring.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-07-03"
+    },
+    {
+      "id": "ULS-0255",
+      "nama_penulis": "Budi S.",
+      "teks": "Udara di kos segar, ventilasi kamar bagus dan tidak pengap.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-08-31"
+    },
+    {
+      "id": "ULS-0393",
+      "nama_penulis": "Budi R.",
+      "teks": "Beneran, kamar mandi luar lumayan terawat, jarang antre.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-09-06"
+    },
+    {
+      "id": "ULS-0382",
+      "nama_penulis": "Dimas W.",
+      "teks": "Sih, lokasi strategis, hanya saja suara kendaraan dari jalan raya kadang terdengar.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-08-05"
+    },
+    {
+      "id": "ULS-0534",
+      "nama_penulis": "Intan N.",
+      "teks": "Air sempat mati kemarin pagi dan agak lama nyalanya.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-10-09"
+    },
+    {
+      "id": "ULS-0154",
+      "nama_penulis": "Lestari U.",
+      "teks": "Dapur bersama bersih dan peralatan masaknya lengkap. (beneran)",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-09-08"
+    },
+    {
+      "id": "ULS-0056",
+      "nama_penulis": "Agus S.",
+      "teks": "Sebenarnya, sangat recommended untuk anak rantau yang butuh suasana belajar tenang.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-06-02"
+    },
+    {
+      "id": "ULS-0176",
+      "nama_penulis": "Budi R.",
+      "teks": "Lumayan, dapur bersama bersih dan peralatan masaknya lengkap.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-05-24"
+    },
+    {
+      "id": "ULS-0516",
+      "nama_penulis": "Eko W.",
+      "teks": "Kunci gerbang utama agak macet dan susah diputar.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-05-26"
+    },
+    {
+      "id": "ULS-0503",
+      "nama_penulis": "Intan R.",
+      "teks": "Sih, wifi kadang agak lambat kalau jam sibuk, tapi masih bisa dipakai.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-05-01"
+    },
+    {
+      "id": "ULS-0016",
+      "nama_penulis": "Rina P.",
+      "teks": "Lokasi strategis banget, jalan kaki ke kampus cuma 5 menit.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-05-30"
+    },
+    {
+      "id": "ULS-0206",
+      "nama_penulis": "Maya R.",
+      "teks": "Sangat recommended untuk anak rantau yang butuh suasana belajar tenang.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-05-02"
+    },
+    {
+      "id": "ULS-0156",
+      "nama_penulis": "Rian U.",
+      "teks": "WiFi super kencang, sangat membantu untuk kuliah online dan ngerjain skripsi.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-05-05"
+    },
+    {
+      "id": "ULS-0179",
+      "nama_penulis": "Andi U.",
+      "teks": "Sebenarnya, sudah setahun ngekos di sini dan selalu puas dengan pelayanannya.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-09-27"
+    },
+    {
+      "id": "ULS-0551",
+      "nama_penulis": "Intan K.",
+      "teks": "WiFi sering putus nyambung pas jam sibuk malam hari, tolong diperbaiki.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-10-06"
+    },
+    {
+      "id": "ULS-0405",
+      "nama_penulis": "Maya W.",
+      "teks": "Harga sewa tergolong standar di daerah sekitar kampus. (cukup)",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-06-24"
+    },
+    {
+      "id": "ULS-0163",
+      "nama_penulis": "Dewi W.",
+      "teks": "Lokasi strategis banget, jalan kaki ke kampus cuma 5 menit.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-05-04"
+    },
+    {
+      "id": "ULS-0423",
+      "nama_penulis": "Dewi L.",
+      "teks": "Kamar lumayan nyaman, fasilitas standar sesuai harga. (sih)",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-04-20"
+    },
+    {
+      "id": "ULS-0173",
+      "nama_penulis": "Hendra W.",
+      "teks": "WiFi super kencang, sangat membantu untuk kuliah online dan ngerjain skripsi.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-05-30"
+    },
+    {
+      "id": "ULS-0213",
+      "nama_penulis": "Fajar R.",
+      "teks": "Udara di kos segar, ventilasi kamar bagus dan tidak pengap.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-06-11"
+    },
+    {
+      "id": "ULS-0437",
+      "nama_penulis": "Doni W.",
+      "teks": "Overall, kamar lumayan nyaman, fasilitas standar sesuai harga.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-08-27"
+    },
+    {
+      "id": "ULS-0541",
+      "nama_penulis": "Eko P.",
+      "teks": "Cukup, tempat sampah di dapur bersama kadang telat diangkut sehingga bau.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-10-13"
+    },
+    {
+      "id": "ULS-0403",
+      "nama_penulis": "Dimas S.",
+      "teks": "Pokoknya, penjaga kos cukup ramah walau kadang susah ditemui pas siang.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-08-07"
+    },
+    {
+      "id": "ULS-0365",
+      "nama_penulis": "Lestari R.",
+      "teks": "Dapur bersama cukup bersih, tapi sesekali ada yang lupa cuci piring.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-06-17"
+    },
+    {
+      "id": "ULS-0018",
+      "nama_penulis": "Budi N.",
+      "teks": "WiFi super kencang, sangat membantu untuk kuliah online dan ngerjain skripsi.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-05-03"
+    },
+    {
+      "id": "ULS-0169",
+      "nama_penulis": "Siti R.",
+      "teks": "Fasilitas lengkap sesuai harga, air lancar dan kamar mandi terawat.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-05-28"
+    },
+    {
+      "id": "ULS-0402",
+      "nama_penulis": "Hendra U.",
+      "teks": "Menurut saya, wifi kadang agak lambat kalau jam sibuk, tapi masih bisa dipakai.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-10-06"
+    },
+    {
+      "id": "ULS-0225",
+      "nama_penulis": "Budi P.",
+      "teks": "Fasilitas lengkap sesuai harga, air lancar dan kamar mandi terawat.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-07-05"
+    },
+    {
+      "id": "ULS-0468",
+      "nama_penulis": "Dimas W.",
+      "teks": "Penjaga kos cukup ramah walau kadang susah ditemui pas siang.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-07-26"
+    },
+    {
+      "id": "ULS-0595",
+      "nama_penulis": "Andi P.",
+      "teks": "Agak, tempat sampah di dapur bersama kadang telat diangkut sehingga bau.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-07-04"
+    },
+    {
+      "id": "ULS-0186",
+      "nama_penulis": "Rian P.",
+      "teks": "Agak, fasilitas lengkap sesuai harga, air lancar dan kamar mandi terawat.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-05-28"
+    },
+    {
+      "id": "ULS-0547",
+      "nama_penulis": "Eko R.",
+      "teks": "Kunci gerbang utama agak macet dan susah diputar.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-07-14"
+    },
+    {
+      "id": "ULS-0153",
+      "nama_penulis": "Hendra K.",
+      "teks": "Sih, dapur bersama bersih dan peralatan masaknya lengkap.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-05-28"
+    },
+    {
+      "id": "ULS-0035",
+      "nama_penulis": "Maya W.",
+      "teks": "Sudah setahun ngekos di sini dan selalu puas dengan pelayanannya.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-06-28"
+    },
+    {
+      "id": "ULS-0533",
+      "nama_penulis": "Siti S.",
+      "teks": "Menurut saya, tempat sampah di dapur bersama kadang telat diangkut sehingga bau.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-04-23"
+    },
+    {
+      "id": "ULS-0301",
+      "nama_penulis": "Rina S.",
+      "teks": "Lingkungan tenang, aman, parkiran motor luas dan ada CCTV.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-09-01"
+    },
+    {
+      "id": "ULS-0071",
+      "nama_penulis": "Andi G.",
+      "teks": "Lingkungan tenang, aman, parkiran motor luas dan ada CCTV.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-05-06"
+    },
+    {
+      "id": "ULS-0062",
+      "nama_penulis": "Maya P.",
+      "teks": "Fasilitas lengkap sesuai harga, air lancar dan kamar mandi terawat.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-04-20"
+    },
+    {
+      "id": "ULS-0143",
+      "nama_penulis": "Dewi L.",
+      "teks": "Sudah setahun ngekos di sini dan selalu puas dengan pelayanannya. (sih)",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-07-05"
+    },
+    {
+      "id": "ULS-0101",
+      "nama_penulis": "Eko W.",
+      "teks": "Kamar sangat bersih dan nyaman, betah tinggal di sini.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-08-27"
+    },
+    {
+      "id": "ULS-0185",
+      "nama_penulis": "Dimas W.",
+      "teks": "Sih, kamar sangat bersih dan nyaman, betah tinggal di sini.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-08-19"
+    },
+    {
+      "id": "ULS-0261",
+      "nama_penulis": "Andi S.",
+      "teks": "Sudah setahun ngekos di sini dan selalu puas dengan pelayanannya.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-05-25"
+    },
+    {
+      "id": "ULS-0444",
+      "nama_penulis": "Dimas R.",
+      "teks": "Agak, tempatnya oke, cuma kalau malam parkiran motor agak penuh.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-08-15"
+    },
+    {
+      "id": "ULS-0221",
+      "nama_penulis": "Ayu W.",
+      "teks": "Kamar sangat bersih dan nyaman, betah tinggal di sini.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-09-11"
+    },
+    {
+      "id": "ULS-0347",
+      "nama_penulis": "Budi W.",
+      "teks": "Harga sewa tergolong standar di daerah sekitar kampus.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-08-09"
+    },
+    {
+      "id": "ULS-0170",
+      "nama_penulis": "Nadia G.",
+      "teks": "Lokasi strategis banget, jalan kaki ke kampus cuma 5 menit.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-07-08"
+    },
+    {
+      "id": "ULS-0286",
+      "nama_penulis": "Hendra P.",
+      "teks": "Beneran, kamar sangat bersih dan nyaman, betah tinggal di sini.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-07-07"
+    },
+    {
+      "id": "ULS-0287",
+      "nama_penulis": "Tiara S.",
+      "teks": "Beneran, lokasi strategis banget, jalan kaki ke kampus cuma 5 menit.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-06-22"
+    },
+    {
+      "id": "ULS-0407",
+      "nama_penulis": "Putri S.",
+      "teks": "Air lancar, tapi tekanan shower di lantai 2 agak kecil.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-08-03"
+    },
+    {
+      "id": "ULS-0191",
+      "nama_penulis": "Fajar L.",
+      "teks": "Lokasi strategis banget, jalan kaki ke kampus cuma 5 menit.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-08-18"
+    },
+    {
+      "id": "ULS-0032",
+      "nama_penulis": "Budi S.",
+      "teks": "Sangat recommended untuk anak rantau yang butuh suasana belajar tenang.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-07-04"
+    },
+    {
+      "id": "ULS-0194",
+      "nama_penulis": "Nadia S.",
+      "teks": "WiFi super kencang, sangat membantu untuk kuliah online dan ngerjain skripsi. (sebenarnya)",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-07-26"
+    },
+    {
+      "id": "ULS-0230",
+      "nama_penulis": "Lestari P.",
+      "teks": "Sangat recommended untuk anak rantau yang butuh suasana belajar tenang.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-08-25"
+    },
+    {
+      "id": "ULS-0371",
+      "nama_penulis": "Fitri P.",
+      "teks": "Lokasi strategis, hanya saja suara kendaraan dari jalan raya kadang terdengar.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-08-27"
+    },
+    {
+      "id": "ULS-0527",
+      "nama_penulis": "Bayu R.",
+      "teks": "WiFi sering putus nyambung pas jam sibuk malam hari, tolong diperbaiki.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-08-03"
+    },
+    {
+      "id": "ULS-0392",
+      "nama_penulis": "Doni P.",
+      "teks": "Menurut saya, lokasi strategis, hanya saja suara kendaraan dari jalan raya kadang terdengar.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-07-09"
+    },
+    {
+      "id": "ULS-0484",
+      "nama_penulis": "Rina R.",
+      "teks": "Tempatnya oke, cuma kalau malam parkiran motor agak penuh.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-06-25"
+    },
+    {
+      "id": "ULS-0470",
+      "nama_penulis": "Tiara N.",
+      "teks": "Kamar lumayan nyaman, fasilitas standar sesuai harga.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-06-21"
+    },
+    {
+      "id": "ULS-0509",
+      "nama_penulis": "Ayu R.",
+      "teks": "WiFi kadang agak lambat kalau jam sibuk, tapi masih bisa dipakai.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-08-04"
+    },
+    {
+      "id": "ULS-0164",
+      "nama_penulis": "Lestari L.",
+      "teks": "Lokasi strategis banget, jalan kaki ke kampus cuma 5 menit.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-06-28"
+    },
+    {
+      "id": "ULS-0354",
+      "nama_penulis": "Eko U.",
+      "teks": "Agak, harga sewa tergolong standar di daerah sekitar kampus.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-07-03"
+    },
+    {
+      "id": "ULS-0508",
+      "nama_penulis": "Nadia S.",
+      "teks": "Lokasi strategis, hanya saja suara kendaraan dari jalan raya kadang terdengar.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-08-28"
+    },
+    {
+      "id": "ULS-0258",
+      "nama_penulis": "Fitri R.",
+      "teks": "Sangat recommended untuk anak rantau yang butuh suasana belajar tenang.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-10-08"
+    },
+    {
+      "id": "ULS-0158",
+      "nama_penulis": "Tiara S.",
+      "teks": "Udara di kos segar, ventilasi kamar bagus dan tidak pengap.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-06-01"
+    },
+    {
+      "id": "ULS-0026",
+      "nama_penulis": "Tiara N.",
+      "teks": "Menurut saya, sangat recommended untuk anak rantau yang butuh suasana belajar tenang.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-07-17"
+    },
+    {
+      "id": "ULS-0080",
+      "nama_penulis": "Rian L.",
+      "teks": "Lokasi strategis banget, jalan kaki ke kampus cuma 5 menit.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-04-23"
+    },
+    {
+      "id": "ULS-0309",
+      "nama_penulis": "Tiara G.",
+      "teks": "Lumayan, fasilitas lengkap sesuai harga, air lancar dan kamar mandi terawat.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-08-06"
+    },
+    {
+      "id": "ULS-0563",
+      "nama_penulis": "Andi P.",
+      "teks": "Lampu lorong lantai 2 sempat mati dua hari belum diganti.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-04-29"
+    },
+    {
+      "id": "ULS-0386",
+      "nama_penulis": "Putri R.",
+      "teks": "Agak, lokasi strategis, hanya saja suara kendaraan dari jalan raya kadang terdengar.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-06-12"
+    },
+    {
+      "id": "ULS-0161",
+      "nama_penulis": "Hendra S.",
+      "teks": "Udara di kos segar, ventilasi kamar bagus dan tidak pengap.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-07-15"
+    },
+    {
+      "id": "ULS-0063",
+      "nama_penulis": "Agus H.",
+      "teks": "Banget, sangat recommended untuk anak rantau yang butuh suasana belajar tenang.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-04-23"
+    },
+    {
+      "id": "ULS-0065",
+      "nama_penulis": "Rian L.",
+      "teks": "Lingkungan tenang, aman, parkiran motor luas dan ada CCTV.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-05-29"
+    },
+    {
+      "id": "ULS-0092",
+      "nama_penulis": "Nadia K.",
+      "teks": "Kamar sangat bersih dan nyaman, betah tinggal di sini.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-09-09"
+    },
+    {
+      "id": "ULS-0217",
+      "nama_penulis": "Rian W.",
+      "teks": "Overall, sangat recommended untuk anak rantau yang butuh suasana belajar tenang.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-08-01"
+    },
+    {
+      "id": "ULS-0148",
+      "nama_penulis": "Ayu P.",
+      "teks": "Sangat recommended untuk anak rantau yang butuh suasana belajar tenang. (beneran)",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-07-18"
+    },
+    {
+      "id": "ULS-0471",
+      "nama_penulis": "Rizky S.",
+      "teks": "Tempatnya oke, cuma kalau malam parkiran motor agak penuh.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-06-13"
+    },
+    {
+      "id": "ULS-0114",
+      "nama_penulis": "Fitri U.",
+      "teks": "Sudah setahun ngekos di sini dan selalu puas dengan pelayanannya.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-09-23"
+    },
+    {
+      "id": "ULS-0504",
+      "nama_penulis": "Siti K.",
+      "teks": "Sebenarnya, tempatnya oke, cuma kalau malam parkiran motor agak penuh.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-08-31"
+    },
+    {
+      "id": "ULS-0224",
+      "nama_penulis": "Intan P.",
+      "teks": "Agak, sangat recommended untuk anak rantau yang butuh suasana belajar tenang.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-09-25"
+    },
+    {
+      "id": "ULS-0165",
+      "nama_penulis": "Fitri L.",
+      "teks": "Sih, udara di kos segar, ventilasi kamar bagus dan tidak pengap.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-06-26"
+    },
+    {
+      "id": "ULS-0410",
+      "nama_penulis": "Rian L.",
+      "teks": "WiFi kadang agak lambat kalau jam sibuk, tapi masih bisa dipakai.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-05-29"
+    },
+    {
+      "id": "ULS-0004",
+      "nama_penulis": "Intan N.",
+      "teks": "Lokasi strategis banget, jalan kaki ke kampus cuma 5 menit.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-08-16"
+    },
+    {
+      "id": "ULS-0147",
+      "nama_penulis": "Intan N.",
+      "teks": "WiFi super kencang, sangat membantu untuk kuliah online dan ngerjain skripsi.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-08-27"
+    },
+    {
+      "id": "ULS-0401",
+      "nama_penulis": "Ayu S.",
+      "teks": "Overall, wifi kadang agak lambat kalau jam sibuk, tapi masih bisa dipakai.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-06-03"
+    },
+    {
+      "id": "ULS-0219",
+      "nama_penulis": "Tiara R.",
+      "teks": "Sudah setahun ngekos di sini dan selalu puas dengan pelayanannya.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-07-26"
+    },
+    {
+      "id": "ULS-0519",
+      "nama_penulis": "Doni S.",
+      "teks": "Ada penghuni kamar sebelah yang suka berisik dan stel musik malam-malam.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-09-15"
+    },
+    {
+      "id": "ULS-0149",
+      "nama_penulis": "Intan R.",
+      "teks": "Sangat recommended untuk anak rantau yang butuh suasana belajar tenang.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-09-19"
+    },
+    {
+      "id": "ULS-0562",
+      "nama_penulis": "Tiara S.",
+      "teks": "Tekanan air kran kamar mandi sangat kecil kalau pagi hari.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-04-26"
+    },
+    {
+      "id": "ULS-0521",
+      "nama_penulis": "Siti S.",
+      "teks": "Air sempat mati kemarin pagi dan agak lama nyalanya.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-06-11"
+    },
+    {
+      "id": "ULS-0362",
+      "nama_penulis": "Budi P.",
+      "teks": "Harga sewa tergolong standar di daerah sekitar kampus. (sih)",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-09-07"
+    },
+    {
+      "id": "ULS-0112",
+      "nama_penulis": "Doni R.",
+      "teks": "Lokasi strategis banget, jalan kaki ke kampus cuma 5 menit. (agak)",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-10-14"
+    },
+    {
+      "id": "ULS-0066",
+      "nama_penulis": "Siti L.",
+      "teks": "Dapur bersama bersih dan peralatan masaknya lengkap. (menurut saya)",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-06-06"
+    },
+    {
+      "id": "ULS-0005",
+      "nama_penulis": "Eko L.",
+      "teks": "Pokoknya, fasilitas lengkap sesuai harga, air lancar dan kamar mandi terawat.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-06-19"
+    },
+    {
+      "id": "ULS-0342",
+      "nama_penulis": "Nadia P.",
+      "teks": "Tempatnya oke, cuma kalau malam parkiran motor agak penuh.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-07-23"
+    },
+    {
+      "id": "ULS-0341",
+      "nama_penulis": "Bayu W.",
+      "teks": "Harga sewa tergolong standar di daerah sekitar kampus.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-06-23"
+    },
+    {
+      "id": "ULS-0306",
+      "nama_penulis": "Lestari P.",
+      "teks": "Sih, sangat recommended untuk anak rantau yang butuh suasana belajar tenang.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-06-28"
+    },
+    {
+      "id": "ULS-0321",
+      "nama_penulis": "Doni W.",
+      "teks": "Lumayan, udara di kos segar, ventilasi kamar bagus dan tidak pengap.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-07-20"
+    },
+    {
+      "id": "ULS-0294",
+      "nama_penulis": "Andi R.",
+      "teks": "Dapur bersama bersih dan peralatan masaknya lengkap.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-06-13"
+    },
+    {
+      "id": "ULS-0337",
+      "nama_penulis": "Eko N.",
+      "teks": "Secara umum biasa saja, tidak ada yang terlalu istimewa tapi cukup baik.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-09-02"
+    },
+    {
+      "id": "ULS-0275",
+      "nama_penulis": "Eko H.",
+      "teks": "Dapur bersama bersih dan peralatan masaknya lengkap. (menurut saya)",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-05-25"
+    },
+    {
+      "id": "ULS-0488",
+      "nama_penulis": "Andi S.",
+      "teks": "Kamar mandi luar lumayan terawat, jarang antre.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-07-11"
+    },
+    {
+      "id": "ULS-0036",
+      "nama_penulis": "Fajar S.",
+      "teks": "Sebenarnya, lokasi strategis banget, jalan kaki ke kampus cuma 5 menit.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-10-12"
+    },
+    {
+      "id": "ULS-0038",
+      "nama_penulis": "Dewi W.",
+      "teks": "Banget, sangat recommended untuk anak rantau yang butuh suasana belajar tenang.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-05-05"
+    },
+    {
+      "id": "ULS-0262",
+      "nama_penulis": "Siti N.",
+      "teks": "Sih, fasilitas lengkap sesuai harga, air lancar dan kamar mandi terawat.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-05-30"
+    },
+    {
+      "id": "ULS-0499",
+      "nama_penulis": "Rizky W.",
+      "teks": "WiFi kadang agak lambat kalau jam sibuk, tapi masih bisa dipakai.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-05-02"
+    },
+    {
+      "id": "ULS-0415",
+      "nama_penulis": "Intan K.",
+      "teks": "Tempatnya oke, cuma kalau malam parkiran motor agak penuh.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-05-02"
+    },
+    {
+      "id": "ULS-0022",
+      "nama_penulis": "Bayu W.",
+      "teks": "Menurut saya, sudah setahun ngekos di sini dan selalu puas dengan pelayanannya.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-06-20"
+    },
+    {
+      "id": "ULS-0538",
+      "nama_penulis": "Bayu S.",
+      "teks": "Parkiran motor sempit kalau semua penghuni bawa motor.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-05-18"
+    },
+    {
+      "id": "ULS-0096",
+      "nama_penulis": "Tiara H.",
+      "teks": "Dapur bersama bersih dan peralatan masaknya lengkap.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-09-17"
+    },
+    {
+      "id": "ULS-0448",
+      "nama_penulis": "Fajar P.",
+      "teks": "Kamar lumayan nyaman, fasilitas standar sesuai harga.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-08-02"
+    },
+    {
+      "id": "ULS-0077",
+      "nama_penulis": "Agus R.",
+      "teks": "Fasilitas lengkap sesuai harga, air lancar dan kamar mandi terawat.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-06-12"
+    },
+    {
+      "id": "ULS-0122",
+      "nama_penulis": "Eko W.",
+      "teks": "Fasilitas lengkap sesuai harga, air lancar dan kamar mandi terawat.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-07-09"
+    },
+    {
+      "id": "ULS-0588",
+      "nama_penulis": "Maya W.",
+      "teks": "Ada penghuni kamar sebelah yang suka berisik dan stel musik malam-malam.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-10-06"
+    },
+    {
+      "id": "ULS-0518",
+      "nama_penulis": "Rian N.",
+      "teks": "Tekanan air kran kamar mandi sangat kecil kalau pagi hari.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-09-16"
+    },
+    {
+      "id": "ULS-0267",
+      "nama_penulis": "Rina R.",
+      "teks": "Udara di kos segar, ventilasi kamar bagus dan tidak pengap.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-09-17"
+    },
+    {
+      "id": "ULS-0200",
+      "nama_penulis": "Putri G.",
+      "teks": "Lokasi strategis banget, jalan kaki ke kampus cuma 5 menit.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-05-20"
+    },
+    {
+      "id": "ULS-0351",
+      "nama_penulis": "Rian L.",
+      "teks": "Lokasi strategis, hanya saja suara kendaraan dari jalan raya kadang terdengar.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-08-12"
+    },
+    {
+      "id": "ULS-0383",
+      "nama_penulis": "Hendra L.",
+      "teks": "Cukup, tempatnya oke, cuma kalau malam parkiran motor agak penuh.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-05-05"
+    },
+    {
+      "id": "ULS-0204",
+      "nama_penulis": "Tiara L.",
+      "teks": "WiFi super kencang, sangat membantu untuk kuliah online dan ngerjain skripsi.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-10-09"
+    },
+    {
+      "id": "ULS-0357",
+      "nama_penulis": "Tiara K.",
+      "teks": "Sebenarnya, lokasi strategis, hanya saja suara kendaraan dari jalan raya kadang terdengar.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-07-26"
+    },
+    {
+      "id": "ULS-0181",
+      "nama_penulis": "Dewi R.",
+      "teks": "Bapak dan ibu kos ramah sekali, selalu sigap kalau ada kendala fasilitas.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-08-02"
+    },
+    {
+      "id": "ULS-0049",
+      "nama_penulis": "Nadia K.",
+      "teks": "Fasilitas lengkap sesuai harga, air lancar dan kamar mandi terawat.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-07-04"
+    },
+    {
+      "id": "ULS-0441",
+      "nama_penulis": "Eko K.",
+      "teks": "Kamar mandi luar lumayan terawat, jarang antre.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-08-20"
+    },
+    {
+      "id": "ULS-0575",
+      "nama_penulis": "Fajar U.",
+      "teks": "WiFi sering putus nyambung pas jam sibuk malam hari, tolong diperbaiki.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-09-01"
+    },
+    {
+      "id": "ULS-0372",
+      "nama_penulis": "Intan P.",
+      "teks": "Harga sewa tergolong standar di daerah sekitar kampus.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-05-29"
+    },
+    {
+      "id": "ULS-0449",
+      "nama_penulis": "Rian L.",
+      "teks": "Air lancar, tapi tekanan shower di lantai 2 agak kecil.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-05-02"
+    },
+    {
+      "id": "ULS-0082",
+      "nama_penulis": "Bayu R.",
+      "teks": "Kamar sangat bersih dan nyaman, betah tinggal di sini. (banget)",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-06-21"
+    },
+    {
+      "id": "ULS-0072",
+      "nama_penulis": "Dimas P.",
+      "teks": "Sudah setahun ngekos di sini dan selalu puas dengan pelayanannya.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-09-21"
+    },
+    {
+      "id": "ULS-0288",
+      "nama_penulis": "Lestari R.",
+      "teks": "WiFi super kencang, sangat membantu untuk kuliah online dan ngerjain skripsi.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-09-04"
+    },
+    {
+      "id": "ULS-0197",
+      "nama_penulis": "Rizky R.",
+      "teks": "Menurut saya, sudah setahun ngekos di sini dan selalu puas dengan pelayanannya.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-05-07"
+    },
+    {
+      "id": "ULS-0024",
+      "nama_penulis": "Rizky G.",
+      "teks": "Sebenarnya, lingkungan tenang, aman, parkiran motor luas dan ada cctv.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-07-22"
+    },
+    {
+      "id": "ULS-0312",
+      "nama_penulis": "Nadia S.",
+      "teks": "Menurut saya, wifi super kencang, sangat membantu untuk kuliah online dan ngerjain skripsi.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-08-20"
+    },
+    {
+      "id": "ULS-0299",
+      "nama_penulis": "Siti L.",
+      "teks": "Sebenarnya, dapur bersama bersih dan peralatan masaknya lengkap.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-05-28"
+    },
+    {
+      "id": "ULS-0446",
+      "nama_penulis": "Nadia U.",
+      "teks": "Kamar lumayan nyaman, fasilitas standar sesuai harga.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-05-04"
+    },
+    {
+      "id": "ULS-0228",
+      "nama_penulis": "Eko W.",
+      "teks": "Kamar sangat bersih dan nyaman, betah tinggal di sini.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-10-04"
+    },
+    {
+      "id": "ULS-0150",
+      "nama_penulis": "Rian S.",
+      "teks": "Dapur bersama bersih dan peralatan masaknya lengkap.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-09-11"
+    },
+    {
+      "id": "ULS-0453",
+      "nama_penulis": "Agus P.",
+      "teks": "Tempatnya oke, cuma kalau malam parkiran motor agak penuh.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-06-09"
+    },
+    {
+      "id": "ULS-0592",
+      "nama_penulis": "Rizky R.",
+      "teks": "Sebenarnya, harga naik sedikit tapi kecepatan internet belum ada peningkatan.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-05-16"
+    },
+    {
+      "id": "ULS-0550",
+      "nama_penulis": "Maya W.",
+      "teks": "Lampu lorong lantai 2 sempat mati dua hari belum diganti.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-07-24"
+    },
+    {
+      "id": "ULS-0524",
+      "nama_penulis": "Budi R.",
+      "teks": "Air sempat mati kemarin pagi dan agak lama nyalanya.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-06-11"
+    },
+    {
+      "id": "ULS-0180",
+      "nama_penulis": "Eko W.",
+      "teks": "Dapur bersama bersih dan peralatan masaknya lengkap.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-06-24"
+    },
+    {
+      "id": "ULS-0370",
+      "nama_penulis": "Maya R.",
+      "teks": "Kamar mandi luar lumayan terawat, jarang antre. (sebenarnya)",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-07-11"
+    },
+    {
+      "id": "ULS-0494",
+      "nama_penulis": "Rina S.",
+      "teks": "Penjaga kos cukup ramah walau kadang susah ditemui pas siang.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-05-02"
+    },
+    {
+      "id": "ULS-0236",
+      "nama_penulis": "Dimas R.",
+      "teks": "Banget, lingkungan tenang, aman, parkiran motor luas dan ada cctv.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-07-07"
+    },
+    {
+      "id": "ULS-0195",
+      "nama_penulis": "Siti G.",
+      "teks": "Bapak dan ibu kos ramah sekali, selalu sigap kalau ada kendala fasilitas.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-04-18"
+    },
+    {
+      "id": "ULS-0557",
+      "nama_penulis": "Siti K.",
+      "teks": "Parkiran motor sempit kalau semua penghuni bawa motor.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-09-25"
+    },
+    {
+      "id": "ULS-0429",
+      "nama_penulis": "Ayu N.",
+      "teks": "Secara umum biasa saja, tidak ada yang terlalu istimewa tapi cukup baik.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-06-04"
+    },
+    {
+      "id": "ULS-0253",
+      "nama_penulis": "Doni R.",
+      "teks": "Pokoknya, bapak dan ibu kos ramah sekali, selalu sigap kalau ada kendala fasilitas.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-07-02"
+    },
+    {
+      "id": "ULS-0238",
+      "nama_penulis": "Bayu K.",
+      "teks": "Lokasi strategis banget, jalan kaki ke kampus cuma 5 menit.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-08-30"
+    },
+    {
+      "id": "ULS-0079",
+      "nama_penulis": "Fitri S.",
+      "teks": "Udara di kos segar, ventilasi kamar bagus dan tidak pengap.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-10-02"
+    },
+    {
+      "id": "ULS-0068",
+      "nama_penulis": "Tiara W.",
+      "teks": "Pokoknya, kamar sangat bersih dan nyaman, betah tinggal di sini.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-09-21"
+    },
+    {
+      "id": "ULS-0540",
+      "nama_penulis": "Eko R.",
+      "teks": "Ada penghuni kamar sebelah yang suka berisik dan stel musik malam-malam.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-08-13"
+    },
+    {
+      "id": "ULS-0057",
+      "nama_penulis": "Putri P.",
+      "teks": "Lingkungan tenang, aman, parkiran motor luas dan ada CCTV.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-08-06"
+    },
+    {
+      "id": "ULS-0528",
+      "nama_penulis": "Rian U.",
+      "teks": "Pokoknya, sinyal seluler agak susah di kamar bagian dalam.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-10-06"
+    },
+    {
+      "id": "ULS-0227",
+      "nama_penulis": "Budi R.",
+      "teks": "Sudah setahun ngekos di sini dan selalu puas dengan pelayanannya.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-05-24"
+    },
+    {
+      "id": "ULS-0001",
+      "nama_penulis": "Eko S.",
+      "teks": "Sudah setahun ngekos di sini dan selalu puas dengan pelayanannya.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-07-19"
+    },
+    {
+      "id": "ULS-0376",
+      "nama_penulis": "Rina N.",
+      "teks": "Sih, air lancar, tapi tekanan shower di lantai 2 agak kecil.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-06-23"
+    },
+    {
+      "id": "ULS-0373",
+      "nama_penulis": "Rian H.",
+      "teks": "Kamar mandi luar lumayan terawat, jarang antre.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-08-27"
+    },
+    {
+      "id": "ULS-0226",
+      "nama_penulis": "Maya H.",
+      "teks": "Dapur bersama bersih dan peralatan masaknya lengkap.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-05-09"
+    },
+    {
+      "id": "ULS-0269",
+      "nama_penulis": "Doni R.",
+      "teks": "Sangat recommended untuk anak rantau yang butuh suasana belajar tenang. (beneran)",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-05-28"
+    },
+    {
+      "id": "ULS-0070",
+      "nama_penulis": "Maya P.",
+      "teks": "Sebenarnya, lokasi strategis banget, jalan kaki ke kampus cuma 5 menit.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-06-19"
+    },
+    {
+      "id": "ULS-0585",
+      "nama_penulis": "Fitri N.",
+      "teks": "Tempat sampah di dapur bersama kadang telat diangkut sehingga bau.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-04-19"
+    },
+    {
+      "id": "ULS-0260",
+      "nama_penulis": "Dewi S.",
+      "teks": "Kamar sangat bersih dan nyaman, betah tinggal di sini.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-05-02"
+    },
+    {
+      "id": "ULS-0259",
+      "nama_penulis": "Siti H.",
+      "teks": "Udara di kos segar, ventilasi kamar bagus dan tidak pengap.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-07-13"
+    },
+    {
+      "id": "ULS-0291",
+      "nama_penulis": "Budi U.",
+      "teks": "Cukup, lokasi strategis banget, jalan kaki ke kampus cuma 5 menit.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-06-20"
+    },
+    {
+      "id": "ULS-0457",
+      "nama_penulis": "Tiara U.",
+      "teks": "Kamar mandi luar lumayan terawat, jarang antre.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-07-06"
+    },
+    {
+      "id": "ULS-0355",
+      "nama_penulis": "Fajar R.",
+      "teks": "Tempatnya oke, cuma kalau malam parkiran motor agak penuh.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-07-28"
+    },
+    {
+      "id": "ULS-0455",
+      "nama_penulis": "Doni H.",
+      "teks": "Kamar lumayan nyaman, fasilitas standar sesuai harga.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-08-31"
+    },
+    {
+      "id": "ULS-0399",
+      "nama_penulis": "Doni W.",
+      "teks": "Banget, air lancar, tapi tekanan shower di lantai 2 agak kecil.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-07-27"
+    },
+    {
+      "id": "ULS-0189",
+      "nama_penulis": "Putri R.",
+      "teks": "Pokoknya, sangat recommended untuk anak rantau yang butuh suasana belajar tenang.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-07-14"
+    },
+    {
+      "id": "ULS-0039",
+      "nama_penulis": "Fajar U.",
+      "teks": "Pokoknya, fasilitas lengkap sesuai harga, air lancar dan kamar mandi terawat.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-06-05"
+    },
+    {
+      "id": "ULS-0229",
+      "nama_penulis": "Bayu R.",
+      "teks": "Bapak dan ibu kos ramah sekali, selalu sigap kalau ada kendala fasilitas. (lumayan)",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-10-10"
+    },
+    {
+      "id": "ULS-0530",
+      "nama_penulis": "Agus S.",
+      "teks": "Overall, wifi sering putus nyambung pas jam sibuk malam hari, tolong diperbaiki.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-08-05"
+    },
+    {
+      "id": "ULS-0400",
+      "nama_penulis": "Rina P.",
+      "teks": "Dapur bersama cukup bersih, tapi sesekali ada yang lupa cuci piring.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-06-21"
+    },
+    {
+      "id": "ULS-0240",
+      "nama_penulis": "Andi L.",
+      "teks": "WiFi super kencang, sangat membantu untuk kuliah online dan ngerjain skripsi.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-05-13"
+    },
+    {
+      "id": "ULS-0350",
+      "nama_penulis": "Fitri R.",
+      "teks": "Harga sewa tergolong standar di daerah sekitar kampus.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-05-29"
+    },
+    {
+      "id": "ULS-0549",
+      "nama_penulis": "Agus P.",
+      "teks": "Banget, ada penghuni kamar sebelah yang suka berisik dan stel musik malam-malam.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-06-17"
+    },
+    {
+      "id": "ULS-0138",
+      "nama_penulis": "Doni S.",
+      "teks": "Udara di kos segar, ventilasi kamar bagus dan tidak pengap.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-07-17"
+    },
+    {
+      "id": "ULS-0555",
+      "nama_penulis": "Dewi S.",
+      "teks": "Parkiran motor sempit kalau semua penghuni bawa motor.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-07-14"
+    },
+    {
+      "id": "ULS-0007",
+      "nama_penulis": "Maya N.",
+      "teks": "Lingkungan tenang, aman, parkiran motor luas dan ada CCTV. (sebenarnya)",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-10-13"
+    },
+    {
+      "id": "ULS-0110",
+      "nama_penulis": "Bayu N.",
+      "teks": "Sih, wifi super kencang, sangat membantu untuk kuliah online dan ngerjain skripsi.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-09-11"
+    },
+    {
+      "id": "ULS-0326",
+      "nama_penulis": "Tiara W.",
+      "teks": "Fasilitas lengkap sesuai harga, air lancar dan kamar mandi terawat.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-05-21"
+    },
+    {
+      "id": "ULS-0178",
+      "nama_penulis": "Fajar W.",
+      "teks": "Banget, sangat recommended untuk anak rantau yang butuh suasana belajar tenang.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-09-06"
+    },
+    {
+      "id": "ULS-0132",
+      "nama_penulis": "Lestari N.",
+      "teks": "Bapak dan ibu kos ramah sekali, selalu sigap kalau ada kendala fasilitas.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-10-05"
+    },
+    {
+      "id": "ULS-0456",
+      "nama_penulis": "Dimas H.",
+      "teks": "WiFi kadang agak lambat kalau jam sibuk, tapi masih bisa dipakai.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-06-18"
+    },
+    {
+      "id": "ULS-0083",
+      "nama_penulis": "Andi U.",
+      "teks": "Dapur bersama bersih dan peralatan masaknya lengkap.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-05-20"
+    },
+    {
+      "id": "ULS-0235",
+      "nama_penulis": "Nadia S.",
+      "teks": "Pokoknya, kamar sangat bersih dan nyaman, betah tinggal di sini.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-10-02"
+    },
+    {
+      "id": "ULS-0430",
+      "nama_penulis": "Andi L.",
+      "teks": "WiFi kadang agak lambat kalau jam sibuk, tapi masih bisa dipakai.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-10-07"
+    },
+    {
+      "id": "ULS-0474",
+      "nama_penulis": "Doni P.",
+      "teks": "WiFi kadang agak lambat kalau jam sibuk, tapi masih bisa dipakai.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-09-10"
+    },
+    {
+      "id": "ULS-0051",
+      "nama_penulis": "Putri U.",
+      "teks": "Sudah setahun ngekos di sini dan selalu puas dengan pelayanannya.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-07-30"
+    },
+    {
+      "id": "ULS-0417",
+      "nama_penulis": "Rizky L.",
+      "teks": "Secara umum biasa saja, tidak ada yang terlalu istimewa tapi cukup baik.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-08-28"
+    },
+    {
+      "id": "ULS-0390",
+      "nama_penulis": "Dimas G.",
+      "teks": "Dapur bersama cukup bersih, tapi sesekali ada yang lupa cuci piring.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-06-05"
+    },
+    {
+      "id": "ULS-0459",
+      "nama_penulis": "Hendra W.",
+      "teks": "Cukup, harga sewa tergolong standar di daerah sekitar kampus.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-05-22"
+    },
+    {
+      "id": "ULS-0283",
+      "nama_penulis": "Rina P.",
+      "teks": "WiFi super kencang, sangat membantu untuk kuliah online dan ngerjain skripsi.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-09-11"
+    },
+    {
+      "id": "ULS-0358",
+      "nama_penulis": "Bayu W.",
+      "teks": "Tempatnya oke, cuma kalau malam parkiran motor agak penuh.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-08-27"
+    },
+    {
+      "id": "ULS-0298",
+      "nama_penulis": "Hendra U.",
+      "teks": "Kamar sangat bersih dan nyaman, betah tinggal di sini.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-07-07"
+    },
+    {
+      "id": "ULS-0443",
+      "nama_penulis": "Intan G.",
+      "teks": "Overall, air lancar, tapi tekanan shower di lantai 2 agak kecil.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-09-20"
+    },
+    {
+      "id": "ULS-0279",
+      "nama_penulis": "Eko S.",
+      "teks": "Sudah setahun ngekos di sini dan selalu puas dengan pelayanannya.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-05-14"
+    },
+    {
+      "id": "ULS-0584",
+      "nama_penulis": "Ayu S.",
+      "teks": "Parkiran motor sempit kalau semua penghuni bawa motor.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-09-19"
+    },
+    {
+      "id": "ULS-0412",
+      "nama_penulis": "Dimas S.",
+      "teks": "Air lancar, tapi tekanan shower di lantai 2 agak kecil.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-06-23"
+    },
+    {
+      "id": "ULS-0492",
+      "nama_penulis": "Putri R.",
+      "teks": "Dapur bersama cukup bersih, tapi sesekali ada yang lupa cuci piring.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-06-09"
+    },
+    {
+      "id": "ULS-0565",
+      "nama_penulis": "Tiara W.",
+      "teks": "Kunci gerbang utama agak macet dan susah diputar. (menurut saya)",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-09-07"
+    },
+    {
+      "id": "ULS-0095",
+      "nama_penulis": "Rina L.",
+      "teks": "Pokoknya, udara di kos segar, ventilasi kamar bagus dan tidak pengap.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-05-26"
+    },
+    {
+      "id": "ULS-0572",
+      "nama_penulis": "Siti G.",
+      "teks": "Tekanan air kran kamar mandi sangat kecil kalau pagi hari.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-04-18"
+    },
+    {
+      "id": "ULS-0053",
+      "nama_penulis": "Intan N.",
+      "teks": "Menurut saya, sangat recommended untuk anak rantau yang butuh suasana belajar tenang.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-09-25"
+    },
+    {
+      "id": "ULS-0190",
+      "nama_penulis": "Siti S.",
+      "teks": "Overall, udara di kos segar, ventilasi kamar bagus dan tidak pengap.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-05-31"
+    },
+    {
+      "id": "ULS-0463",
+      "nama_penulis": "Nadia W.",
+      "teks": "Overall, secara umum biasa saja, tidak ada yang terlalu istimewa tapi cukup baik.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-05-26"
+    },
+    {
+      "id": "ULS-0130",
+      "nama_penulis": "Intan S.",
+      "teks": "Lingkungan tenang, aman, parkiran motor luas dan ada CCTV.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-07-29"
+    },
+    {
+      "id": "ULS-0142",
+      "nama_penulis": "Maya S.",
+      "teks": "Bapak dan ibu kos ramah sekali, selalu sigap kalau ada kendala fasilitas.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-08-27"
+    },
+    {
+      "id": "ULS-0377",
+      "nama_penulis": "Rizky L.",
+      "teks": "WiFi kadang agak lambat kalau jam sibuk, tapi masih bisa dipakai.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-08-23"
+    },
+    {
+      "id": "ULS-0252",
+      "nama_penulis": "Fitri P.",
+      "teks": "Sih, wifi super kencang, sangat membantu untuk kuliah online dan ngerjain skripsi.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-04-22"
+    },
+    {
+      "id": "ULS-0510",
+      "nama_penulis": "Dewi S.",
+      "teks": "Lumayan, air lancar, tapi tekanan shower di lantai 2 agak kecil.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-09-05"
+    },
+    {
+      "id": "ULS-0473",
+      "nama_penulis": "Dewi H.",
+      "teks": "Kamar mandi luar lumayan terawat, jarang antre.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-05-16"
+    },
+    {
+      "id": "ULS-0536",
+      "nama_penulis": "Budi R.",
+      "teks": "Pokoknya, air sempat mati kemarin pagi dan agak lama nyalanya.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-09-19"
+    },
+    {
+      "id": "ULS-0248",
+      "nama_penulis": "Siti H.",
+      "teks": "Fasilitas lengkap sesuai harga, air lancar dan kamar mandi terawat.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-07-26"
+    },
+    {
+      "id": "ULS-0561",
+      "nama_penulis": "Maya S.",
+      "teks": "Tekanan air kran kamar mandi sangat kecil kalau pagi hari.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-08-02"
+    },
+    {
+      "id": "ULS-0497",
+      "nama_penulis": "Siti R.",
+      "teks": "Sebenarnya, air lancar, tapi tekanan shower di lantai 2 agak kecil.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-10-10"
+    },
+    {
+      "id": "ULS-0511",
+      "nama_penulis": "Rizky L.",
+      "teks": "Sinyal seluler agak susah di kamar bagian dalam.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-08-13"
+    },
+    {
+      "id": "ULS-0247",
+      "nama_penulis": "Rizky W.",
+      "teks": "Kamar sangat bersih dan nyaman, betah tinggal di sini.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-06-16"
+    },
+    {
+      "id": "ULS-0231",
+      "nama_penulis": "Siti K.",
+      "teks": "Sangat recommended untuk anak rantau yang butuh suasana belajar tenang. (pokoknya)",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-06-21"
+    },
+    {
+      "id": "ULS-0076",
+      "nama_penulis": "Hendra L.",
+      "teks": "Menurut saya, fasilitas lengkap sesuai harga, air lancar dan kamar mandi terawat.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-06-14"
+    },
+    {
+      "id": "ULS-0331",
+      "nama_penulis": "Lestari H.",
+      "teks": "Tempatnya oke, cuma kalau malam parkiran motor agak penuh.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-05-03"
+    },
+    {
+      "id": "ULS-0335",
+      "nama_penulis": "Agus R.",
+      "teks": "Air lancar, tapi tekanan shower di lantai 2 agak kecil.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-05-05"
+    },
+    {
+      "id": "ULS-0042",
+      "nama_penulis": "Bayu H.",
+      "teks": "Bapak dan ibu kos ramah sekali, selalu sigap kalau ada kendala fasilitas.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-09-23"
+    },
+    {
+      "id": "ULS-0366",
+      "nama_penulis": "Doni S.",
+      "teks": "Kamar mandi luar lumayan terawat, jarang antre.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-06-12"
+    },
+    {
+      "id": "ULS-0422",
+      "nama_penulis": "Eko S.",
+      "teks": "Lokasi strategis, hanya saja suara kendaraan dari jalan raya kadang terdengar.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-06-29"
+    },
+    {
+      "id": "ULS-0151",
+      "nama_penulis": "Andi L.",
+      "teks": "Sangat recommended untuk anak rantau yang butuh suasana belajar tenang.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-09-28"
+    },
+    {
+      "id": "ULS-0427",
+      "nama_penulis": "Maya S.",
+      "teks": "WiFi kadang agak lambat kalau jam sibuk, tapi masih bisa dipakai.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-10-09"
+    },
+    {
+      "id": "ULS-0542",
+      "nama_penulis": "Siti W.",
+      "teks": "Ada penghuni kamar sebelah yang suka berisik dan stel musik malam-malam.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-08-07"
+    },
+    {
+      "id": "ULS-0582",
+      "nama_penulis": "Rian G.",
+      "teks": "Kunci gerbang utama agak macet dan susah diputar.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-09-08"
+    },
+    {
+      "id": "ULS-0116",
+      "nama_penulis": "Fitri U.",
+      "teks": "Lingkungan tenang, aman, parkiran motor luas dan ada CCTV.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-05-15"
+    },
+    {
+      "id": "ULS-0559",
+      "nama_penulis": "Rizky N.",
+      "teks": "Agak, air sempat mati kemarin pagi dan agak lama nyalanya.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-06-01"
+    },
+    {
+      "id": "ULS-0487",
+      "nama_penulis": "Putri N.",
+      "teks": "Beneran, kamar lumayan nyaman, fasilitas standar sesuai harga.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-05-11"
+    },
+    {
+      "id": "ULS-0034",
+      "nama_penulis": "Fitri R.",
+      "teks": "Sangat recommended untuk anak rantau yang butuh suasana belajar tenang.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-05-05"
+    },
+    {
+      "id": "ULS-0155",
+      "nama_penulis": "Ayu W.",
+      "teks": "Sebenarnya, fasilitas lengkap sesuai harga, air lancar dan kamar mandi terawat.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-04-20"
+    },
+    {
+      "id": "ULS-0166",
+      "nama_penulis": "Doni P.",
+      "teks": "Sebenarnya, udara di kos segar, ventilasi kamar bagus dan tidak pengap.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-07-15"
+    },
+    {
+      "id": "ULS-0010",
+      "nama_penulis": "Bayu S.",
+      "teks": "Kamar sangat bersih dan nyaman, betah tinggal di sini.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-04-19"
+    },
+    {
+      "id": "ULS-0146",
+      "nama_penulis": "Dewi W.",
+      "teks": "Bapak dan ibu kos ramah sekali, selalu sigap kalau ada kendala fasilitas.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-07-01"
+    },
+    {
+      "id": "ULS-0486",
+      "nama_penulis": "Dimas S.",
+      "teks": "Kamar mandi luar lumayan terawat, jarang antre.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-07-13"
+    },
+    {
+      "id": "ULS-0520",
+      "nama_penulis": "Fajar W.",
+      "teks": "Menurut saya, parkiran motor sempit kalau semua penghuni bawa motor.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-04-19"
+    },
+    {
+      "id": "ULS-0339",
+      "nama_penulis": "Nadia P.",
+      "teks": "Cukup, kamar lumayan nyaman, fasilitas standar sesuai harga.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-09-25"
+    },
+    {
+      "id": "ULS-0131",
+      "nama_penulis": "Andi K.",
+      "teks": "Dapur bersama bersih dan peralatan masaknya lengkap.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-07-18"
+    },
+    {
+      "id": "ULS-0599",
+      "nama_penulis": "Agus S.",
+      "teks": "Sinyal seluler agak susah di kamar bagian dalam.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-09-23"
+    },
+    {
+      "id": "ULS-0343",
+      "nama_penulis": "Hendra S.",
+      "teks": "Lokasi strategis, hanya saja suara kendaraan dari jalan raya kadang terdengar.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-08-08"
+    },
+    {
+      "id": "ULS-0496",
+      "nama_penulis": "Nadia N.",
+      "teks": "Penjaga kos cukup ramah walau kadang susah ditemui pas siang.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-08-08"
+    },
+    {
+      "id": "ULS-0340",
+      "nama_penulis": "Dimas W.",
+      "teks": "Air lancar, tapi tekanan shower di lantai 2 agak kecil.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-08-17"
+    },
+    {
+      "id": "ULS-0571",
+      "nama_penulis": "Fajar U.",
+      "teks": "WiFi sering putus nyambung pas jam sibuk malam hari, tolong diperbaiki.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-08-22"
+    },
+    {
+      "id": "ULS-0388",
+      "nama_penulis": "Fajar P.",
+      "teks": "Kamar lumayan nyaman, fasilitas standar sesuai harga.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-06-30"
+    },
+    {
+      "id": "ULS-0061",
+      "nama_penulis": "Rina P.",
+      "teks": "Banget, udara di kos segar, ventilasi kamar bagus dan tidak pengap.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-07-30"
+    },
+    {
+      "id": "ULS-0445",
+      "nama_penulis": "Rizky S.",
+      "teks": "Kamar mandi luar lumayan terawat, jarang antre.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-10-01"
+    },
+    {
+      "id": "ULS-0439",
+      "nama_penulis": "Ayu G.",
+      "teks": "WiFi kadang agak lambat kalau jam sibuk, tapi masih bisa dipakai.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-05-27"
+    },
+    {
+      "id": "ULS-0502",
+      "nama_penulis": "Maya P.",
+      "teks": "Harga sewa tergolong standar di daerah sekitar kampus. (sebenarnya)",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-06-28"
+    },
+    {
+      "id": "ULS-0216",
+      "nama_penulis": "Tiara L.",
+      "teks": "Pokoknya, sangat recommended untuk anak rantau yang butuh suasana belajar tenang.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-05-08"
+    },
+    {
+      "id": "ULS-0295",
+      "nama_penulis": "Doni S.",
+      "teks": "Kamar sangat bersih dan nyaman, betah tinggal di sini.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-05-14"
+    },
+    {
+      "id": "ULS-0054",
+      "nama_penulis": "Hendra N.",
+      "teks": "Bapak dan ibu kos ramah sekali, selalu sigap kalau ada kendala fasilitas.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-06-01"
+    },
+    {
+      "id": "ULS-0325",
+      "nama_penulis": "Lestari R.",
+      "teks": "Fasilitas lengkap sesuai harga, air lancar dan kamar mandi terawat. (sih)",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-07-11"
+    },
+    {
+      "id": "ULS-0135",
+      "nama_penulis": "Rizky S.",
+      "teks": "Kamar sangat bersih dan nyaman, betah tinggal di sini.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-06-05"
+    },
+    {
+      "id": "ULS-0249",
+      "nama_penulis": "Rizky R.",
+      "teks": "Dapur bersama bersih dan peralatan masaknya lengkap.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-08-17"
+    },
+    {
+      "id": "ULS-0469",
+      "nama_penulis": "Nadia L.",
+      "teks": "Tempatnya oke, cuma kalau malam parkiran motor agak penuh.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-10-03"
+    },
+    {
+      "id": "ULS-0025",
+      "nama_penulis": "Dimas R.",
+      "teks": "Sangat recommended untuk anak rantau yang butuh suasana belajar tenang.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-08-30"
+    },
+    {
+      "id": "ULS-0310",
+      "nama_penulis": "Tiara P.",
+      "teks": "Beneran, dapur bersama bersih dan peralatan masaknya lengkap.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-09-16"
+    },
+    {
+      "id": "ULS-0472",
+      "nama_penulis": "Fitri U.",
+      "teks": "Lokasi strategis, hanya saja suara kendaraan dari jalan raya kadang terdengar.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-05-14"
+    },
+    {
+      "id": "ULS-0418",
+      "nama_penulis": "Siti P.",
+      "teks": "Dapur bersama cukup bersih, tapi sesekali ada yang lupa cuci piring.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-06-20"
+    },
+    {
+      "id": "ULS-0037",
+      "nama_penulis": "Putri N.",
+      "teks": "Cukup, fasilitas lengkap sesuai harga, air lancar dan kamar mandi terawat.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-06-30"
+    },
+    {
+      "id": "ULS-0105",
+      "nama_penulis": "Intan H.",
+      "teks": "Kamar sangat bersih dan nyaman, betah tinggal di sini.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-08-17"
+    },
+    {
+      "id": "ULS-0419",
+      "nama_penulis": "Intan H.",
+      "teks": "Kamar mandi luar lumayan terawat, jarang antre. (agak)",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-10-02"
+    },
+    {
+      "id": "ULS-0064",
+      "nama_penulis": "Budi S.",
+      "teks": "Udara di kos segar, ventilasi kamar bagus dan tidak pengap.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-05-28"
+    },
+    {
+      "id": "ULS-0296",
+      "nama_penulis": "Ayu L.",
+      "teks": "Cukup, fasilitas lengkap sesuai harga, air lancar dan kamar mandi terawat.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-10-03"
+    },
+    {
+      "id": "ULS-0119",
+      "nama_penulis": "Lestari S.",
+      "teks": "Sangat recommended untuk anak rantau yang butuh suasana belajar tenang.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-09-04"
+    },
+    {
+      "id": "ULS-0074",
+      "nama_penulis": "Tiara S.",
+      "teks": "Pokoknya, bapak dan ibu kos ramah sekali, selalu sigap kalau ada kendala fasilitas.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-08-27"
+    },
+    {
+      "id": "ULS-0570",
+      "nama_penulis": "Maya H.",
+      "teks": "Ada penghuni kamar sebelah yang suka berisik dan stel musik malam-malam.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-07-20"
+    },
+    {
+      "id": "ULS-0600",
+      "nama_penulis": "Lestari L.",
+      "teks": "Tekanan air kran kamar mandi sangat kecil kalau pagi hari.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-09-25"
+    },
+    {
+      "id": "ULS-0578",
+      "nama_penulis": "Hendra U.",
+      "teks": "Pokoknya, sinyal seluler agak susah di kamar bagian dalam.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-05-18"
+    },
+    {
+      "id": "ULS-0118",
+      "nama_penulis": "Dewi K.",
+      "teks": "Bapak dan ibu kos ramah sekali, selalu sigap kalau ada kendala fasilitas.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-05-16"
+    },
+    {
+      "id": "ULS-0394",
+      "nama_penulis": "Maya G.",
+      "teks": "Lokasi strategis, hanya saja suara kendaraan dari jalan raya kadang terdengar.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-07-05"
+    },
+    {
+      "id": "ULS-0002",
+      "nama_penulis": "Putri S.",
+      "teks": "Banget, lokasi strategis banget, jalan kaki ke kampus cuma 5 menit.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-08-13"
+    },
+    {
+      "id": "ULS-0174",
+      "nama_penulis": "Ayu R.",
+      "teks": "Udara di kos segar, ventilasi kamar bagus dan tidak pengap. (beneran)",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-06-29"
+    },
+    {
+      "id": "ULS-0314",
+      "nama_penulis": "Intan G.",
+      "teks": "Menurut saya, sangat recommended untuk anak rantau yang butuh suasana belajar tenang.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-09-28"
+    },
+    {
+      "id": "ULS-0591",
+      "nama_penulis": "Rizky S.",
+      "teks": "Sebenarnya, sinyal seluler agak susah di kamar bagian dalam.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-08-29"
+    },
+    {
+      "id": "ULS-0274",
+      "nama_penulis": "Maya R.",
+      "teks": "Overall, wifi super kencang, sangat membantu untuk kuliah online dan ngerjain skripsi.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-05-06"
+    },
+    {
+      "id": "ULS-0425",
+      "nama_penulis": "Rian H.",
+      "teks": "Sih, wifi kadang agak lambat kalau jam sibuk, tapi masih bisa dipakai.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-09-06"
+    },
+    {
+      "id": "ULS-0141",
+      "nama_penulis": "Doni L.",
+      "teks": "Kamar sangat bersih dan nyaman, betah tinggal di sini. (pokoknya)",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-05-09"
+    },
+    {
+      "id": "ULS-0466",
+      "nama_penulis": "Rina R.",
+      "teks": "Kamar lumayan nyaman, fasilitas standar sesuai harga.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-07-17"
+    },
+    {
+      "id": "ULS-0162",
+      "nama_penulis": "Lestari U.",
+      "teks": "Cukup, fasilitas lengkap sesuai harga, air lancar dan kamar mandi terawat.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-08-25"
+    },
+    {
+      "id": "ULS-0476",
+      "nama_penulis": "Putri S.",
+      "teks": "Kamar mandi luar lumayan terawat, jarang antre.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-06-07"
+    },
+    {
+      "id": "ULS-0188",
+      "nama_penulis": "Fajar U.",
+      "teks": "Overall, bapak dan ibu kos ramah sekali, selalu sigap kalau ada kendala fasilitas.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-07-07"
+    },
+    {
+      "id": "ULS-0361",
+      "nama_penulis": "Fajar P.",
+      "teks": "Penjaga kos cukup ramah walau kadang susah ditemui pas siang. (lumayan)",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-04-21"
+    },
+    {
+      "id": "ULS-0246",
+      "nama_penulis": "Putri G.",
+      "teks": "Udara di kos segar, ventilasi kamar bagus dan tidak pengap.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-08-01"
+    },
+    {
+      "id": "ULS-0067",
+      "nama_penulis": "Fajar W.",
+      "teks": "Menurut saya, kamar sangat bersih dan nyaman, betah tinggal di sini.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-04-19"
+    },
+    {
+      "id": "ULS-0136",
+      "nama_penulis": "Eko G.",
+      "teks": "Fasilitas lengkap sesuai harga, air lancar dan kamar mandi terawat.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-08-18"
+    },
+    {
+      "id": "ULS-0199",
+      "nama_penulis": "Ayu S.",
+      "teks": "Lokasi strategis banget, jalan kaki ke kampus cuma 5 menit.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-05-10"
+    },
+    {
+      "id": "ULS-0421",
+      "nama_penulis": "Rina L.",
+      "teks": "Lokasi strategis, hanya saja suara kendaraan dari jalan raya kadang terdengar.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-07-23"
+    },
+    {
+      "id": "ULS-0384",
+      "nama_penulis": "Nadia L.",
+      "teks": "Air lancar, tapi tekanan shower di lantai 2 agak kecil.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-06-13"
+    },
+    {
+      "id": "ULS-0505",
+      "nama_penulis": "Eko S.",
+      "teks": "WiFi kadang agak lambat kalau jam sibuk, tapi masih bisa dipakai.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-07-20"
+    },
+    {
+      "id": "ULS-0241",
+      "nama_penulis": "Lestari P.",
+      "teks": "Kamar sangat bersih dan nyaman, betah tinggal di sini.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-06-09"
+    },
+    {
+      "id": "ULS-0215",
+      "nama_penulis": "Rina R.",
+      "teks": "WiFi super kencang, sangat membantu untuk kuliah online dan ngerjain skripsi.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-08-07"
+    },
+    {
+      "id": "ULS-0272",
+      "nama_penulis": "Tiara K.",
+      "teks": "WiFi super kencang, sangat membantu untuk kuliah online dan ngerjain skripsi. (menurut saya)",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-10-01"
+    },
+    {
+      "id": "ULS-0322",
+      "nama_penulis": "Putri R.",
+      "teks": "Sangat recommended untuk anak rantau yang butuh suasana belajar tenang.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-08-27"
+    },
+    {
+      "id": "ULS-0566",
+      "nama_penulis": "Ayu K.",
+      "teks": "Air sempat mati kemarin pagi dan agak lama nyalanya.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-10-01"
+    },
+    {
+      "id": "ULS-0202",
+      "nama_penulis": "Intan S.",
+      "teks": "Lokasi strategis banget, jalan kaki ke kampus cuma 5 menit.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-08-24"
+    },
+    {
+      "id": "ULS-0590",
+      "nama_penulis": "Ayu W.",
+      "teks": "Parkiran motor sempit kalau semua penghuni bawa motor.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-09-11"
+    },
+    {
+      "id": "ULS-0353",
+      "nama_penulis": "Andi L.",
+      "teks": "Kamar lumayan nyaman, fasilitas standar sesuai harga.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-06-19"
+    },
+    {
+      "id": "ULS-0495",
+      "nama_penulis": "Doni R.",
+      "teks": "Pokoknya, lokasi strategis, hanya saja suara kendaraan dari jalan raya kadang terdengar.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-09-27"
+    },
+    {
+      "id": "ULS-0493",
+      "nama_penulis": "Tiara P.",
+      "teks": "WiFi kadang agak lambat kalau jam sibuk, tapi masih bisa dipakai.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-06-09"
+    },
+    {
+      "id": "ULS-0088",
+      "nama_penulis": "Ayu H.",
+      "teks": "Lokasi strategis banget, jalan kaki ke kampus cuma 5 menit.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-06-17"
+    },
+    {
+      "id": "ULS-0338",
+      "nama_penulis": "Lestari N.",
+      "teks": "Tempatnya oke, cuma kalau malam parkiran motor agak penuh.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-06-07"
+    },
+    {
+      "id": "ULS-0120",
+      "nama_penulis": "Nadia P.",
+      "teks": "Sangat recommended untuk anak rantau yang butuh suasana belajar tenang. (beneran)",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-06-01"
+    },
+    {
+      "id": "ULS-0134",
+      "nama_penulis": "Nadia P.",
+      "teks": "Sangat recommended untuk anak rantau yang butuh suasana belajar tenang.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-05-11"
+    },
+    {
+      "id": "ULS-0569",
+      "nama_penulis": "Dimas S.",
+      "teks": "Tekanan air kran kamar mandi sangat kecil kalau pagi hari.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-05-28"
+    },
+    {
+      "id": "ULS-0244",
+      "nama_penulis": "Dewi S.",
+      "teks": "Beneran, sangat recommended untuk anak rantau yang butuh suasana belajar tenang.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-04-22"
+    },
+    {
+      "id": "ULS-0075",
+      "nama_penulis": "Eko R.",
+      "teks": "Sudah setahun ngekos di sini dan selalu puas dengan pelayanannya.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-05-02"
+    },
+    {
+      "id": "ULS-0517",
+      "nama_penulis": "Rina R.",
+      "teks": "Menurut saya, parkiran motor sempit kalau semua penghuni bawa motor.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-06-18"
+    },
+    {
+      "id": "ULS-0464",
+      "nama_penulis": "Maya W.",
+      "teks": "Penjaga kos cukup ramah walau kadang susah ditemui pas siang. (agak)",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-05-13"
+    },
+    {
+      "id": "ULS-0451",
+      "nama_penulis": "Fitri P.",
+      "teks": "WiFi kadang agak lambat kalau jam sibuk, tapi masih bisa dipakai.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-06-09"
+    },
+    {
+      "id": "ULS-0089",
+      "nama_penulis": "Tiara S.",
+      "teks": "Lingkungan tenang, aman, parkiran motor luas dan ada CCTV.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-07-26"
+    },
+    {
+      "id": "ULS-0537",
+      "nama_penulis": "Rina P.",
+      "teks": "Kunci gerbang utama agak macet dan susah diputar. (lumayan)",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-06-17"
+    },
+    {
+      "id": "ULS-0121",
+      "nama_penulis": "Andi U.",
+      "teks": "Dapur bersama bersih dan peralatan masaknya lengkap.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-10-09"
+    },
+    {
+      "id": "ULS-0019",
+      "nama_penulis": "Lestari U.",
+      "teks": "Overall, lokasi strategis banget, jalan kaki ke kampus cuma 5 menit.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-09-05"
+    },
+    {
+      "id": "ULS-0479",
+      "nama_penulis": "Budi W.",
+      "teks": "Beneran, dapur bersama cukup bersih, tapi sesekali ada yang lupa cuci piring.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-07-19"
+    },
+    {
+      "id": "ULS-0438",
+      "nama_penulis": "Doni S.",
+      "teks": "Secara umum biasa saja, tidak ada yang terlalu istimewa tapi cukup baik.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-04-18"
+    },
+    {
+      "id": "ULS-0560",
+      "nama_penulis": "Siti K.",
+      "teks": "Tekanan air kran kamar mandi sangat kecil kalau pagi hari.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-05-08"
+    },
+    {
+      "id": "ULS-0485",
+      "nama_penulis": "Rina S.",
+      "teks": "Kamar lumayan nyaman, fasilitas standar sesuai harga. (sih)",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-07-23"
+    },
+    {
+      "id": "ULS-0257",
+      "nama_penulis": "Hendra K.",
+      "teks": "Bapak dan ibu kos ramah sekali, selalu sigap kalau ada kendala fasilitas. (overall)",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-09-03"
+    },
+    {
+      "id": "ULS-0317",
+      "nama_penulis": "Andi N.",
+      "teks": "Bapak dan ibu kos ramah sekali, selalu sigap kalau ada kendala fasilitas.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-09-02"
+    },
+    {
+      "id": "ULS-0210",
+      "nama_penulis": "Lestari S.",
+      "teks": "Bapak dan ibu kos ramah sekali, selalu sigap kalau ada kendala fasilitas.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-04-18"
+    },
+    {
+      "id": "ULS-0029",
+      "nama_penulis": "Fajar P.",
+      "teks": "Fasilitas lengkap sesuai harga, air lancar dan kamar mandi terawat.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-06-23"
+    },
+    {
+      "id": "ULS-0554",
+      "nama_penulis": "Bayu S.",
+      "teks": "Kunci gerbang utama agak macet dan susah diputar.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-08-25"
+    },
+    {
+      "id": "ULS-0411",
+      "nama_penulis": "Tiara R.",
+      "teks": "Kamar lumayan nyaman, fasilitas standar sesuai harga.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-08-26"
+    },
+    {
+      "id": "ULS-0109",
+      "nama_penulis": "Rina L.",
+      "teks": "Fasilitas lengkap sesuai harga, air lancar dan kamar mandi terawat.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-04-30"
+    },
+    {
+      "id": "ULS-0017",
+      "nama_penulis": "Budi G.",
+      "teks": "Menurut saya, sudah setahun ngekos di sini dan selalu puas dengan pelayanannya.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-09-03"
+    },
+    {
+      "id": "ULS-0304",
+      "nama_penulis": "Tiara W.",
+      "teks": "Udara di kos segar, ventilasi kamar bagus dan tidak pengap.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-06-09"
+    },
+    {
+      "id": "ULS-0346",
+      "nama_penulis": "Rian S.",
+      "teks": "Overall, dapur bersama cukup bersih, tapi sesekali ada yang lupa cuci piring.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-06-25"
+    },
+    {
+      "id": "ULS-0363",
+      "nama_penulis": "Rizky P.",
+      "teks": "Penjaga kos cukup ramah walau kadang susah ditemui pas siang.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-05-27"
+    },
+    {
+      "id": "ULS-0442",
+      "nama_penulis": "Doni W.",
+      "teks": "Pokoknya, kamar mandi luar lumayan terawat, jarang antre.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-04-26"
+    },
+    {
+      "id": "ULS-0523",
+      "nama_penulis": "Rian N.",
+      "teks": "Cukup, parkiran motor sempit kalau semua penghuni bawa motor.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-05-08"
+    },
+    {
+      "id": "ULS-0424",
+      "nama_penulis": "Fitri W.",
+      "teks": "WiFi kadang agak lambat kalau jam sibuk, tapi masih bisa dipakai.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-08-05"
+    },
+    {
+      "id": "ULS-0483",
+      "nama_penulis": "Hendra G.",
+      "teks": "Cukup, penjaga kos cukup ramah walau kadang susah ditemui pas siang.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-07-08"
+    },
+    {
+      "id": "ULS-0389",
+      "nama_penulis": "Dimas K.",
+      "teks": "Pokoknya, penjaga kos cukup ramah walau kadang susah ditemui pas siang.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-07-30"
+    },
+    {
+      "id": "ULS-0187",
+      "nama_penulis": "Agus P.",
+      "teks": "Lingkungan tenang, aman, parkiran motor luas dan ada CCTV.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-07-17"
+    },
+    {
+      "id": "ULS-0033",
+      "nama_penulis": "Dewi W.",
+      "teks": "Lokasi strategis banget, jalan kaki ke kampus cuma 5 menit.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-07-20"
+    },
+    {
+      "id": "ULS-0387",
+      "nama_penulis": "Nadia K.",
+      "teks": "Lumayan, air lancar, tapi tekanan shower di lantai 2 agak kecil.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-10-11"
+    },
+    {
+      "id": "ULS-0391",
+      "nama_penulis": "Putri S.",
+      "teks": "Overall, penjaga kos cukup ramah walau kadang susah ditemui pas siang.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-07-21"
+    },
+    {
+      "id": "ULS-0140",
+      "nama_penulis": "Maya N.",
+      "teks": "Lingkungan tenang, aman, parkiran motor luas dan ada CCTV.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-07-10"
+    },
+    {
+      "id": "ULS-0093",
+      "nama_penulis": "Budi W.",
+      "teks": "Sebenarnya, sudah setahun ngekos di sini dan selalu puas dengan pelayanannya.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-05-19"
+    },
+    {
+      "id": "ULS-0352",
+      "nama_penulis": "Fajar K.",
+      "teks": "Secara umum biasa saja, tidak ada yang terlalu istimewa tapi cukup baik.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-09-24"
+    },
+    {
+      "id": "ULS-0478",
+      "nama_penulis": "Fajar P.",
+      "teks": "WiFi kadang agak lambat kalau jam sibuk, tapi masih bisa dipakai.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-05-07"
+    },
+    {
+      "id": "ULS-0381",
+      "nama_penulis": "Rian L.",
+      "teks": "Secara umum biasa saja, tidak ada yang terlalu istimewa tapi cukup baik. (agak)",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-06-22"
+    },
+    {
+      "id": "ULS-0467",
+      "nama_penulis": "Tiara K.",
+      "teks": "Secara umum biasa saja, tidak ada yang terlalu istimewa tapi cukup baik.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-06-14"
+    },
+    {
+      "id": "ULS-0263",
+      "nama_penulis": "Doni U.",
+      "teks": "Beneran, wifi super kencang, sangat membantu untuk kuliah online dan ngerjain skripsi.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-08-30"
+    },
+    {
+      "id": "ULS-0526",
+      "nama_penulis": "Nadia N.",
+      "teks": "Harga naik sedikit tapi kecepatan internet belum ada peningkatan.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-10-06"
+    },
+    {
+      "id": "ULS-0462",
+      "nama_penulis": "Nadia W.",
+      "teks": "Harga sewa tergolong standar di daerah sekitar kampus.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-09-10"
+    },
+    {
+      "id": "ULS-0060",
+      "nama_penulis": "Agus P.",
+      "teks": "Udara di kos segar, ventilasi kamar bagus dan tidak pengap.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-09-05"
+    },
+    {
+      "id": "ULS-0420",
+      "nama_penulis": "Agus H.",
+      "teks": "WiFi kadang agak lambat kalau jam sibuk, tapi masih bisa dipakai.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-08-18"
+    },
+    {
+      "id": "ULS-0596",
+      "nama_penulis": "Tiara S.",
+      "teks": "Sinyal seluler agak susah di kamar bagian dalam.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-10-02"
+    },
+    {
+      "id": "ULS-0368",
+      "nama_penulis": "Dewi L.",
+      "teks": "Secara umum biasa saja, tidak ada yang terlalu istimewa tapi cukup baik.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-04-27"
+    },
+    {
+      "id": "ULS-0031",
+      "nama_penulis": "Nadia U.",
+      "teks": "Sudah setahun ngekos di sini dan selalu puas dengan pelayanannya.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-08-07"
+    },
+    {
+      "id": "ULS-0432",
+      "nama_penulis": "Siti R.",
+      "teks": "Dapur bersama cukup bersih, tapi sesekali ada yang lupa cuci piring.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-07-07"
+    },
+    {
+      "id": "ULS-0011",
+      "nama_penulis": "Eko W.",
+      "teks": "Sebenarnya, udara di kos segar, ventilasi kamar bagus dan tidak pengap.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-06-04"
+    },
+    {
+      "id": "ULS-0198",
+      "nama_penulis": "Tiara W.",
+      "teks": "Fasilitas lengkap sesuai harga, air lancar dan kamar mandi terawat.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-06-03"
+    },
+    {
+      "id": "ULS-0276",
+      "nama_penulis": "Dewi H.",
+      "teks": "Sih, sudah setahun ngekos di sini dan selalu puas dengan pelayanannya.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-08-20"
+    },
+    {
+      "id": "ULS-0319",
+      "nama_penulis": "Budi G.",
+      "teks": "Udara di kos segar, ventilasi kamar bagus dan tidak pengap. (lumayan)",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-04-27"
+    },
+    {
+      "id": "ULS-0589",
+      "nama_penulis": "Hendra H.",
+      "teks": "Parkiran motor sempit kalau semua penghuni bawa motor.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-07-24"
+    },
+    {
+      "id": "ULS-0434",
+      "nama_penulis": "Andi S.",
+      "teks": "Lokasi strategis, hanya saja suara kendaraan dari jalan raya kadang terdengar.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-05-15"
+    },
+    {
+      "id": "ULS-0234",
+      "nama_penulis": "Budi P.",
+      "teks": "Pokoknya, wifi super kencang, sangat membantu untuk kuliah online dan ngerjain skripsi.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-09-24"
+    },
+    {
+      "id": "ULS-0139",
+      "nama_penulis": "Maya N.",
+      "teks": "Agak, lingkungan tenang, aman, parkiran motor luas dan ada cctv.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-05-08"
+    },
+    {
+      "id": "ULS-0124",
+      "nama_penulis": "Doni S.",
+      "teks": "Lokasi strategis banget, jalan kaki ke kampus cuma 5 menit.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-09-27"
+    },
+    {
+      "id": "ULS-0208",
+      "nama_penulis": "Dewi S.",
+      "teks": "Sangat recommended untuk anak rantau yang butuh suasana belajar tenang.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-10-12"
+    },
+    {
+      "id": "ULS-0315",
+      "nama_penulis": "Dimas P.",
+      "teks": "Udara di kos segar, ventilasi kamar bagus dan tidak pengap.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-08-22"
+    },
+    {
+      "id": "ULS-0086",
+      "nama_penulis": "Dewi P.",
+      "teks": "WiFi super kencang, sangat membantu untuk kuliah online dan ngerjain skripsi.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-06-03"
+    },
+    {
+      "id": "ULS-0428",
+      "nama_penulis": "Maya S.",
+      "teks": "Tempatnya oke, cuma kalau malam parkiran motor agak penuh.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-06-06"
+    },
+    {
+      "id": "ULS-0059",
+      "nama_penulis": "Dimas P.",
+      "teks": "Dapur bersama bersih dan peralatan masaknya lengkap.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-05-29"
+    },
+    {
+      "id": "ULS-0282",
+      "nama_penulis": "Agus P.",
+      "teks": "WiFi super kencang, sangat membantu untuk kuliah online dan ngerjain skripsi.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-07-11"
+    },
+    {
+      "id": "ULS-0103",
+      "nama_penulis": "Rian G.",
+      "teks": "Banget, kamar sangat bersih dan nyaman, betah tinggal di sini.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-08-09"
+    },
+    {
+      "id": "ULS-0168",
+      "nama_penulis": "Budi N.",
+      "teks": "Dapur bersama bersih dan peralatan masaknya lengkap.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-05-13"
+    },
+    {
+      "id": "ULS-0447",
+      "nama_penulis": "Hendra L.",
+      "teks": "Tempatnya oke, cuma kalau malam parkiran motor agak penuh. (beneran)",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-04-27"
+    },
+    {
+      "id": "ULS-0237",
+      "nama_penulis": "Putri R.",
+      "teks": "Sangat recommended untuk anak rantau yang butuh suasana belajar tenang.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-06-26"
+    },
+    {
+      "id": "ULS-0073",
+      "nama_penulis": "Lestari P.",
+      "teks": "Sih, lingkungan tenang, aman, parkiran motor luas dan ada cctv.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-04-24"
+    },
+    {
+      "id": "ULS-0450",
+      "nama_penulis": "Maya R.",
+      "teks": "Air lancar, tapi tekanan shower di lantai 2 agak kecil.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-06-14"
+    },
+    {
+      "id": "ULS-0055",
+      "nama_penulis": "Dimas S.",
+      "teks": "Dapur bersama bersih dan peralatan masaknya lengkap.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-05-12"
+    },
+    {
+      "id": "ULS-0587",
+      "nama_penulis": "Eko H.",
+      "teks": "Cukup, harga naik sedikit tapi kecepatan internet belum ada peningkatan.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-08-10"
+    },
+    {
+      "id": "ULS-0129",
+      "nama_penulis": "Intan H.",
+      "teks": "Bapak dan ibu kos ramah sekali, selalu sigap kalau ada kendala fasilitas.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-05-02"
+    },
+    {
+      "id": "ULS-0409",
+      "nama_penulis": "Lestari N.",
+      "teks": "Menurut saya, secara umum biasa saja, tidak ada yang terlalu istimewa tapi cukup baik.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-08-27"
+    },
+    {
+      "id": "ULS-0102",
+      "nama_penulis": "Fajar K.",
+      "teks": "Sangat recommended untuk anak rantau yang butuh suasana belajar tenang. (sih)",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-09-28"
+    },
+    {
+      "id": "ULS-0256",
+      "nama_penulis": "Agus W.",
+      "teks": "Bapak dan ibu kos ramah sekali, selalu sigap kalau ada kendala fasilitas.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-07-27"
+    },
+    {
+      "id": "ULS-0177",
+      "nama_penulis": "Intan W.",
+      "teks": "Fasilitas lengkap sesuai harga, air lancar dan kamar mandi terawat.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-07-12"
+    },
+    {
+      "id": "ULS-0531",
+      "nama_penulis": "Maya P.",
+      "teks": "Lumayan, tempat sampah di dapur bersama kadang telat diangkut sehingga bau.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-09-19"
+    },
+    {
+      "id": "ULS-0043",
+      "nama_penulis": "Agus R.",
+      "teks": "Sudah setahun ngekos di sini dan selalu puas dengan pelayanannya.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-05-24"
+    },
+    {
+      "id": "ULS-0201",
+      "nama_penulis": "Eko W.",
+      "teks": "Sangat recommended untuk anak rantau yang butuh suasana belajar tenang.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-09-29"
+    },
+    {
+      "id": "ULS-0356",
+      "nama_penulis": "Ayu W.",
+      "teks": "Penjaga kos cukup ramah walau kadang susah ditemui pas siang.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-09-27"
+    },
+    {
+      "id": "ULS-0345",
+      "nama_penulis": "Agus R.",
+      "teks": "Agak, harga sewa tergolong standar di daerah sekitar kampus.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-06-25"
+    },
+    {
+      "id": "ULS-0548",
+      "nama_penulis": "Nadia K.",
+      "teks": "Kunci gerbang utama agak macet dan susah diputar.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-06-28"
+    },
+    {
+      "id": "ULS-0280",
+      "nama_penulis": "Nadia R.",
+      "teks": "WiFi super kencang, sangat membantu untuk kuliah online dan ngerjain skripsi.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-08-21"
+    },
+    {
+      "id": "ULS-0172",
+      "nama_penulis": "Intan L.",
+      "teks": "Lokasi strategis banget, jalan kaki ke kampus cuma 5 menit.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-05-09"
+    },
+    {
+      "id": "ULS-0207",
+      "nama_penulis": "Fajar K.",
+      "teks": "Sebenarnya, fasilitas lengkap sesuai harga, air lancar dan kamar mandi terawat.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-08-22"
+    },
+    {
+      "id": "ULS-0414",
+      "nama_penulis": "Rizky P.",
+      "teks": "Agak, kamar lumayan nyaman, fasilitas standar sesuai harga.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-10-01"
+    },
+    {
+      "id": "ULS-0573",
+      "nama_penulis": "Lestari H.",
+      "teks": "Beneran, ada penghuni kamar sebelah yang suka berisik dan stel musik malam-malam.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-04-18"
+    },
+    {
+      "id": "ULS-0454",
+      "nama_penulis": "Rian P.",
+      "teks": "Harga sewa tergolong standar di daerah sekitar kampus.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-10-01"
+    },
+    {
+      "id": "ULS-0477",
+      "nama_penulis": "Fitri N.",
+      "teks": "Dapur bersama cukup bersih, tapi sesekali ada yang lupa cuci piring.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-05-21"
+    },
+    {
+      "id": "ULS-0167",
+      "nama_penulis": "Budi W.",
+      "teks": "Lokasi strategis banget, jalan kaki ke kampus cuma 5 menit.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-06-14"
+    },
+    {
+      "id": "ULS-0211",
+      "nama_penulis": "Intan H.",
+      "teks": "Sebenarnya, bapak dan ibu kos ramah sekali, selalu sigap kalau ada kendala fasilitas.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-06-25"
+    },
+    {
+      "id": "ULS-0482",
+      "nama_penulis": "Rian H.",
+      "teks": "Sih, lokasi strategis, hanya saja suara kendaraan dari jalan raya kadang terdengar.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-09-05"
+    },
+    {
+      "id": "ULS-0183",
+      "nama_penulis": "Nadia S.",
+      "teks": "Udara di kos segar, ventilasi kamar bagus dan tidak pengap. (menurut saya)",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-04-21"
+    },
+    {
+      "id": "ULS-0374",
+      "nama_penulis": "Rian L.",
+      "teks": "Overall, wifi kadang agak lambat kalau jam sibuk, tapi masih bisa dipakai.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-06-20"
+    },
+    {
+      "id": "ULS-0579",
+      "nama_penulis": "Agus G.",
+      "teks": "Tempat sampah di dapur bersama kadang telat diangkut sehingga bau.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-08-29"
+    },
+    {
+      "id": "ULS-0021",
+      "nama_penulis": "Dewi S.",
+      "teks": "Sih, udara di kos segar, ventilasi kamar bagus dan tidak pengap.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-06-09"
+    },
+    {
+      "id": "ULS-0048",
+      "nama_penulis": "Dimas W.",
+      "teks": "Menurut saya, bapak dan ibu kos ramah sekali, selalu sigap kalau ada kendala fasilitas.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-06-17"
+    },
+    {
+      "id": "ULS-0175",
+      "nama_penulis": "Bayu N.",
+      "teks": "WiFi super kencang, sangat membantu untuk kuliah online dan ngerjain skripsi.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-09-26"
+    },
+    {
+      "id": "ULS-0489",
+      "nama_penulis": "Rian S.",
+      "teks": "Penjaga kos cukup ramah walau kadang susah ditemui pas siang.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-05-29"
+    },
+    {
+      "id": "ULS-0251",
+      "nama_penulis": "Fajar S.",
+      "teks": "Lokasi strategis banget, jalan kaki ke kampus cuma 5 menit.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-08-25"
+    },
+    {
+      "id": "ULS-0308",
+      "nama_penulis": "Fajar N.",
+      "teks": "Sebenarnya, sudah setahun ngekos di sini dan selalu puas dengan pelayanannya.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-09-05"
+    },
+    {
+      "id": "ULS-0044",
+      "nama_penulis": "Hendra K.",
+      "teks": "Kamar sangat bersih dan nyaman, betah tinggal di sini. (sebenarnya)",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-05-27"
+    },
+    {
+      "id": "ULS-0316",
+      "nama_penulis": "Tiara U.",
+      "teks": "Sebenarnya, wifi super kencang, sangat membantu untuk kuliah online dan ngerjain skripsi.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-06-06"
+    },
+    {
+      "id": "ULS-0320",
+      "nama_penulis": "Maya P.",
+      "teks": "Bapak dan ibu kos ramah sekali, selalu sigap kalau ada kendala fasilitas.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-05-09"
+    },
+    {
+      "id": "ULS-0264",
+      "nama_penulis": "Dimas W.",
+      "teks": "Lokasi strategis banget, jalan kaki ke kampus cuma 5 menit.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-06-25"
+    },
+    {
+      "id": "ULS-0144",
+      "nama_penulis": "Dewi H.",
+      "teks": "Agak, udara di kos segar, ventilasi kamar bagus dan tidak pengap.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-05-07"
+    },
+    {
+      "id": "ULS-0239",
+      "nama_penulis": "Hendra P.",
+      "teks": "Beneran, kamar sangat bersih dan nyaman, betah tinggal di sini.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-10-04"
+    },
+    {
+      "id": "ULS-0023",
+      "nama_penulis": "Fajar R.",
+      "teks": "Sih, wifi super kencang, sangat membantu untuk kuliah online dan ngerjain skripsi.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-07-27"
+    },
+    {
+      "id": "ULS-0117",
+      "nama_penulis": "Rizky G.",
+      "teks": "Udara di kos segar, ventilasi kamar bagus dan tidak pengap. (agak)",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-10-07"
+    },
+    {
+      "id": "ULS-0597",
+      "nama_penulis": "Maya U.",
+      "teks": "Air sempat mati kemarin pagi dan agak lama nyalanya.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-05-03"
+    },
+    {
+      "id": "ULS-0364",
+      "nama_penulis": "Rina W.",
+      "teks": "Dapur bersama cukup bersih, tapi sesekali ada yang lupa cuci piring.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-10-09"
+    },
+    {
+      "id": "ULS-0380",
+      "nama_penulis": "Rina G.",
+      "teks": "Sebenarnya, tempatnya oke, cuma kalau malam parkiran motor agak penuh.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-05-20"
+    },
+    {
+      "id": "ULS-0300",
+      "nama_penulis": "Fitri G.",
+      "teks": "Sudah setahun ngekos di sini dan selalu puas dengan pelayanannya.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-10-03"
+    },
+    {
+      "id": "ULS-0220",
+      "nama_penulis": "Dewi P.",
+      "teks": "WiFi super kencang, sangat membantu untuk kuliah online dan ngerjain skripsi.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-08-04"
+    },
+    {
+      "id": "ULS-0546",
+      "nama_penulis": "Fitri W.",
+      "teks": "Lampu lorong lantai 2 sempat mati dua hari belum diganti.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-06-30"
+    },
+    {
+      "id": "ULS-0543",
+      "nama_penulis": "Dimas H.",
+      "teks": "Sebenarnya, sinyal seluler agak susah di kamar bagian dalam.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-05-06"
+    },
+    {
+      "id": "ULS-0435",
+      "nama_penulis": "Bayu W.",
+      "teks": "Air lancar, tapi tekanan shower di lantai 2 agak kecil.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-06-07"
+    },
+    {
+      "id": "ULS-0491",
+      "nama_penulis": "Siti H.",
+      "teks": "Secara umum biasa saja, tidak ada yang terlalu istimewa tapi cukup baik.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-08-23"
+    },
+    {
+      "id": "ULS-0513",
+      "nama_penulis": "Dimas S.",
+      "teks": "Harga naik sedikit tapi kecepatan internet belum ada peningkatan.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-07-23"
+    },
+    {
+      "id": "ULS-0452",
+      "nama_penulis": "Tiara W.",
+      "teks": "Menurut saya, dapur bersama cukup bersih, tapi sesekali ada yang lupa cuci piring.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-04-24"
+    },
+    {
+      "id": "ULS-0218",
+      "nama_penulis": "Doni G.",
+      "teks": "Lumayan, kamar sangat bersih dan nyaman, betah tinggal di sini.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-09-27"
+    },
+    {
+      "id": "ULS-0328",
+      "nama_penulis": "Dewi K.",
+      "teks": "Overall, sudah setahun ngekos di sini dan selalu puas dengan pelayanannya.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-10-14"
+    },
+    {
+      "id": "ULS-0046",
+      "nama_penulis": "Putri G.",
+      "teks": "Lokasi strategis banget, jalan kaki ke kampus cuma 5 menit.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-08-10"
+    },
+    {
+      "id": "ULS-0133",
+      "nama_penulis": "Andi H.",
+      "teks": "Sebenarnya, lingkungan tenang, aman, parkiran motor luas dan ada cctv.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-09-12"
+    },
+    {
+      "id": "ULS-0556",
+      "nama_penulis": "Bayu H.",
+      "teks": "Tempat sampah di dapur bersama kadang telat diangkut sehingga bau.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-07-19"
+    },
+    {
+      "id": "ULS-0214",
+      "nama_penulis": "Rizky S.",
+      "teks": "Lokasi strategis banget, jalan kaki ke kampus cuma 5 menit.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-08-14"
+    },
+    {
+      "id": "ULS-0461",
+      "nama_penulis": "Nadia U.",
+      "teks": "Lumayan, secara umum biasa saja, tidak ada yang terlalu istimewa tapi cukup baik.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-06-17"
+    },
+    {
+      "id": "ULS-0367",
+      "nama_penulis": "Bayu U.",
+      "teks": "Penjaga kos cukup ramah walau kadang susah ditemui pas siang.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-08-11"
+    },
+    {
+      "id": "ULS-0514",
+      "nama_penulis": "Agus R.",
+      "teks": "Harga naik sedikit tapi kecepatan internet belum ada peningkatan.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-07-14"
+    },
+    {
+      "id": "ULS-0285",
+      "nama_penulis": "Siti S.",
+      "teks": "Agak, dapur bersama bersih dan peralatan masaknya lengkap.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-07-05"
+    },
+    {
+      "id": "ULS-0058",
+      "nama_penulis": "Maya W.",
+      "teks": "Sudah setahun ngekos di sini dan selalu puas dengan pelayanannya.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-07-23"
+    },
+    {
+      "id": "ULS-0243",
+      "nama_penulis": "Dimas K.",
+      "teks": "Udara di kos segar, ventilasi kamar bagus dan tidak pengap.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-09-27"
+    },
+    {
+      "id": "ULS-0205",
+      "nama_penulis": "Putri P.",
+      "teks": "Kamar sangat bersih dan nyaman, betah tinggal di sini.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-10-04"
+    },
+    {
+      "id": "ULS-0413",
+      "nama_penulis": "Tiara S.",
+      "teks": "Air lancar, tapi tekanan shower di lantai 2 agak kecil.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-09-08"
+    },
+    {
+      "id": "ULS-0593",
+      "nama_penulis": "Dimas W.",
+      "teks": "WiFi sering putus nyambung pas jam sibuk malam hari, tolong diperbaiki.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-09-25"
+    },
+    {
+      "id": "ULS-0052",
+      "nama_penulis": "Lestari W.",
+      "teks": "WiFi super kencang, sangat membantu untuk kuliah online dan ngerjain skripsi.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-06-03"
+    },
+    {
+      "id": "ULS-0266",
+      "nama_penulis": "Dewi P.",
+      "teks": "Kamar sangat bersih dan nyaman, betah tinggal di sini.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-09-10"
+    },
+    {
+      "id": "ULS-0385",
+      "nama_penulis": "Rian P.",
+      "teks": "Tempatnya oke, cuma kalau malam parkiran motor agak penuh. (lumayan)",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-08-18"
+    },
+    {
+      "id": "ULS-0515",
+      "nama_penulis": "Tiara S.",
+      "teks": "Air sempat mati kemarin pagi dan agak lama nyalanya.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-09-16"
+    },
+    {
+      "id": "ULS-0265",
+      "nama_penulis": "Andi H.",
+      "teks": "Sangat recommended untuk anak rantau yang butuh suasana belajar tenang.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-09-09"
+    },
+    {
+      "id": "ULS-0475",
+      "nama_penulis": "Eko S.",
+      "teks": "WiFi kadang agak lambat kalau jam sibuk, tapi masih bisa dipakai. (beneran)",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-06-22"
+    },
+    {
+      "id": "ULS-0490",
+      "nama_penulis": "Agus S.",
+      "teks": "Tempatnya oke, cuma kalau malam parkiran motor agak penuh. (sih)",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-08-24"
+    },
+    {
+      "id": "ULS-0348",
+      "nama_penulis": "Budi H.",
+      "teks": "Pokoknya, dapur bersama cukup bersih, tapi sesekali ada yang lupa cuci piring.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-07-14"
+    },
+    {
+      "id": "ULS-0558",
+      "nama_penulis": "Putri W.",
+      "teks": "Parkiran motor sempit kalau semua penghuni bawa motor.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-10-05"
+    },
+    {
+      "id": "ULS-0323",
+      "nama_penulis": "Nadia W.",
+      "teks": "Sangat recommended untuk anak rantau yang butuh suasana belajar tenang.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-08-20"
+    },
+    {
+      "id": "ULS-0137",
+      "nama_penulis": "Nadia R.",
+      "teks": "Sudah setahun ngekos di sini dan selalu puas dengan pelayanannya.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-06-06"
+    },
+    {
+      "id": "ULS-0125",
+      "nama_penulis": "Fajar L.",
+      "teks": "Sangat recommended untuk anak rantau yang butuh suasana belajar tenang.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-07-30"
+    },
+    {
+      "id": "ULS-0078",
+      "nama_penulis": "Andi H.",
+      "teks": "Bapak dan ibu kos ramah sekali, selalu sigap kalau ada kendala fasilitas.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-07-15"
+    },
+    {
+      "id": "ULS-0015",
+      "nama_penulis": "Putri H.",
+      "teks": "Banget, dapur bersama bersih dan peralatan masaknya lengkap.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-05-02"
+    },
+    {
+      "id": "ULS-0500",
+      "nama_penulis": "Agus S.",
+      "teks": "Secara umum biasa saja, tidak ada yang terlalu istimewa tapi cukup baik.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-08-16"
+    },
+    {
+      "id": "ULS-0431",
+      "nama_penulis": "Rian L.",
+      "teks": "Kamar lumayan nyaman, fasilitas standar sesuai harga.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-08-18"
+    },
+    {
+      "id": "ULS-0552",
+      "nama_penulis": "Maya S.",
+      "teks": "WiFi sering putus nyambung pas jam sibuk malam hari, tolong diperbaiki.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-08-01"
+    },
+    {
+      "id": "ULS-0041",
+      "nama_penulis": "Dimas U.",
+      "teks": "Lokasi strategis banget, jalan kaki ke kampus cuma 5 menit.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-06-18"
+    },
+    {
+      "id": "ULS-0171",
+      "nama_penulis": "Rina S.",
+      "teks": "Fasilitas lengkap sesuai harga, air lancar dan kamar mandi terawat. (pokoknya)",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-08-17"
+    },
+    {
+      "id": "ULS-0539",
+      "nama_penulis": "Fajar W.",
+      "teks": "Harga naik sedikit tapi kecepatan internet belum ada peningkatan.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-09-30"
+    },
+    {
+      "id": "ULS-0009",
+      "nama_penulis": "Dewi G.",
+      "teks": "Agak, wifi super kencang, sangat membantu untuk kuliah online dan ngerjain skripsi.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-09-09"
+    },
+    {
+      "id": "ULS-0586",
+      "nama_penulis": "Fitri N.",
+      "teks": "Harga naik sedikit tapi kecepatan internet belum ada peningkatan.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-05-20"
+    },
+    {
+      "id": "ULS-0344",
+      "nama_penulis": "Hendra S.",
+      "teks": "Dapur bersama cukup bersih, tapi sesekali ada yang lupa cuci piring.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-05-12"
+    },
+    {
+      "id": "ULS-0281",
+      "nama_penulis": "Hendra H.",
+      "teks": "Udara di kos segar, ventilasi kamar bagus dan tidak pengap. (agak)",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-08-21"
+    },
+    {
+      "id": "ULS-0327",
+      "nama_penulis": "Fajar P.",
+      "teks": "Sudah setahun ngekos di sini dan selalu puas dengan pelayanannya. (banget)",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-05-06"
+    },
+    {
+      "id": "ULS-0379",
+      "nama_penulis": "Putri U.",
+      "teks": "Dapur bersama cukup bersih, tapi sesekali ada yang lupa cuci piring.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-07-16"
+    },
+    {
+      "id": "ULS-0577",
+      "nama_penulis": "Agus R.",
+      "teks": "Beneran, lampu lorong lantai 2 sempat mati dua hari belum diganti.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-04-25"
+    },
+    {
+      "id": "ULS-0289",
+      "nama_penulis": "Fajar N.",
+      "teks": "Lumayan, sangat recommended untuk anak rantau yang butuh suasana belajar tenang.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-10-04"
+    },
+    {
+      "id": "ULS-0481",
+      "nama_penulis": "Fajar K.",
+      "teks": "Secara umum biasa saja, tidak ada yang terlalu istimewa tapi cukup baik.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-10-03"
+    },
+    {
+      "id": "ULS-0100",
+      "nama_penulis": "Eko G.",
+      "teks": "Sangat recommended untuk anak rantau yang butuh suasana belajar tenang.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-06-05"
+    },
+    {
+      "id": "ULS-0087",
+      "nama_penulis": "Putri K.",
+      "teks": "Lokasi strategis banget, jalan kaki ke kampus cuma 5 menit.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-07-28"
+    },
+    {
+      "id": "ULS-0192",
+      "nama_penulis": "Fajar L.",
+      "teks": "Kamar sangat bersih dan nyaman, betah tinggal di sini.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-09-06"
+    },
+    {
+      "id": "ULS-0084",
+      "nama_penulis": "Rizky P.",
+      "teks": "Sangat recommended untuk anak rantau yang butuh suasana belajar tenang.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-09-05"
+    },
+    {
+      "id": "ULS-0307",
+      "nama_penulis": "Rina L.",
+      "teks": "Udara di kos segar, ventilasi kamar bagus dan tidak pengap.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-07-27"
+    },
+    {
+      "id": "ULS-0311",
+      "nama_penulis": "Lestari P.",
+      "teks": "Sangat recommended untuk anak rantau yang butuh suasana belajar tenang.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-06-22"
+    },
+    {
+      "id": "ULS-0349",
+      "nama_penulis": "Tiara W.",
+      "teks": "Secara umum biasa saja, tidak ada yang terlalu istimewa tapi cukup baik.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-09-04"
+    },
+    {
+      "id": "ULS-0157",
+      "nama_penulis": "Nadia K.",
+      "teks": "Sebenarnya, udara di kos segar, ventilasi kamar bagus dan tidak pengap.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-05-19"
+    },
+    {
+      "id": "ULS-0008",
+      "nama_penulis": "Eko P.",
+      "teks": "Sudah setahun ngekos di sini dan selalu puas dengan pelayanannya.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-10-05"
+    },
+    {
+      "id": "ULS-0233",
+      "nama_penulis": "Rian G.",
+      "teks": "WiFi super kencang, sangat membantu untuk kuliah online dan ngerjain skripsi.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-07-04"
+    },
+    {
+      "id": "ULS-0330",
+      "nama_penulis": "Andi S.",
+      "teks": "Sudah setahun ngekos di sini dan selalu puas dengan pelayanannya.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-08-25"
+    },
+    {
+      "id": "ULS-0594",
+      "nama_penulis": "Bayu R.",
+      "teks": "Tempat sampah di dapur bersama kadang telat diangkut sehingga bau.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-07-27"
+    },
+    {
+      "id": "ULS-0099",
+      "nama_penulis": "Maya G.",
+      "teks": "Lumayan, sudah setahun ngekos di sini dan selalu puas dengan pelayanannya.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-10-05"
+    },
+    {
+      "id": "ULS-0254",
+      "nama_penulis": "Bayu S.",
+      "teks": "Bapak dan ibu kos ramah sekali, selalu sigap kalau ada kendala fasilitas.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-09-01"
+    },
+    {
+      "id": "ULS-0369",
+      "nama_penulis": "Maya W.",
+      "teks": "Secara umum biasa saja, tidak ada yang terlalu istimewa tapi cukup baik.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-05-02"
+    },
+    {
+      "id": "ULS-0284",
+      "nama_penulis": "Fitri P.",
+      "teks": "Lingkungan tenang, aman, parkiran motor luas dan ada CCTV.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-06-03"
+    },
+    {
+      "id": "ULS-0535",
+      "nama_penulis": "Budi P.",
+      "teks": "Kunci gerbang utama agak macet dan susah diputar. (pokoknya)",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-10-11"
+    },
+    {
+      "id": "ULS-0111",
+      "nama_penulis": "Agus W.",
+      "teks": "Sudah setahun ngekos di sini dan selalu puas dengan pelayanannya.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-06-15"
+    },
+    {
+      "id": "ULS-0232",
+      "nama_penulis": "Hendra P.",
+      "teks": "Agak, kamar sangat bersih dan nyaman, betah tinggal di sini.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-04-20"
+    },
+    {
+      "id": "ULS-0522",
+      "nama_penulis": "Bayu N.",
+      "teks": "Banget, tempat sampah di dapur bersama kadang telat diangkut sehingga bau.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-08-19"
+    },
+    {
+      "id": "ULS-0465",
+      "nama_penulis": "Fajar S.",
+      "teks": "Cukup, kamar lumayan nyaman, fasilitas standar sesuai harga.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-06-10"
+    },
+    {
+      "id": "ULS-0408",
+      "nama_penulis": "Lestari G.",
+      "teks": "Lokasi strategis, hanya saja suara kendaraan dari jalan raya kadang terdengar.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-09-24"
+    },
+    {
+      "id": "ULS-0277",
+      "nama_penulis": "Budi P.",
+      "teks": "WiFi super kencang, sangat membantu untuk kuliah online dan ngerjain skripsi. (banget)",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-07-17"
+    },
+    {
+      "id": "ULS-0568",
+      "nama_penulis": "Dimas L.",
+      "teks": "Sebenarnya, lampu lorong lantai 2 sempat mati dua hari belum diganti.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-09-10"
+    },
+    {
+      "id": "ULS-0081",
+      "nama_penulis": "Fajar S.",
+      "teks": "Agak, sangat recommended untuk anak rantau yang butuh suasana belajar tenang.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-09-19"
+    },
+    {
+      "id": "ULS-0498",
+      "nama_penulis": "Tiara R.",
+      "teks": "Banget, wifi kadang agak lambat kalau jam sibuk, tapi masih bisa dipakai.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-07-08"
+    },
+    {
+      "id": "ULS-0020",
+      "nama_penulis": "Doni S.",
+      "teks": "Menurut saya, lingkungan tenang, aman, parkiran motor luas dan ada cctv.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-09-26"
+    },
+    {
+      "id": "ULS-0396",
+      "nama_penulis": "Putri R.",
+      "teks": "Cukup, air lancar, tapi tekanan shower di lantai 2 agak kecil.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-08-30"
+    },
+    {
+      "id": "ULS-0544",
+      "nama_penulis": "Dewi K.",
+      "teks": "WiFi sering putus nyambung pas jam sibuk malam hari, tolong diperbaiki.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-07-06"
+    },
+    {
+      "id": "ULS-0581",
+      "nama_penulis": "Agus L.",
+      "teks": "Sih, harga naik sedikit tapi kecepatan internet belum ada peningkatan.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-10-12"
+    },
+    {
+      "id": "ULS-0303",
+      "nama_penulis": "Budi S.",
+      "teks": "Cukup, lokasi strategis banget, jalan kaki ke kampus cuma 5 menit.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-09-16"
+    },
+    {
+      "id": "ULS-0290",
+      "nama_penulis": "Fitri W.",
+      "teks": "Cukup, sangat recommended untuk anak rantau yang butuh suasana belajar tenang.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-10-01"
+    },
+    {
+      "id": "ULS-0501",
+      "nama_penulis": "Rian S.",
+      "teks": "Banget, wifi kadang agak lambat kalau jam sibuk, tapi masih bisa dipakai.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-10-02"
+    },
+    {
+      "id": "ULS-0333",
+      "nama_penulis": "Nadia S.",
+      "teks": "Tempatnya oke, cuma kalau malam parkiran motor agak penuh.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-07-20"
+    },
+    {
+      "id": "ULS-0050",
+      "nama_penulis": "Fitri S.",
+      "teks": "Sebenarnya, udara di kos segar, ventilasi kamar bagus dan tidak pengap.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-05-02"
+    },
+    {
+      "id": "ULS-0318",
+      "nama_penulis": "Rina G.",
+      "teks": "Pokoknya, wifi super kencang, sangat membantu untuk kuliah online dan ngerjain skripsi.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-09-14"
+    },
+    {
+      "id": "ULS-0013",
+      "nama_penulis": "Fitri R.",
+      "teks": "Overall, dapur bersama bersih dan peralatan masaknya lengkap.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-05-16"
+    },
+    {
+      "id": "ULS-0576",
+      "nama_penulis": "Putri S.",
+      "teks": "Air sempat mati kemarin pagi dan agak lama nyalanya.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-08-07"
+    },
+    {
+      "id": "ULS-0012",
+      "nama_penulis": "Rian P.",
+      "teks": "Bapak dan ibu kos ramah sekali, selalu sigap kalau ada kendala fasilitas.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-09-18"
+    },
+    {
+      "id": "ULS-0091",
+      "nama_penulis": "Doni P.",
+      "teks": "Udara di kos segar, ventilasi kamar bagus dan tidak pengap. (agak)",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-08-20"
+    },
+    {
+      "id": "ULS-0292",
+      "nama_penulis": "Ayu K.",
+      "teks": "Sebenarnya, dapur bersama bersih dan peralatan masaknya lengkap.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-08-19"
+    },
+    {
+      "id": "ULS-0184",
+      "nama_penulis": "Rian N.",
+      "teks": "WiFi super kencang, sangat membantu untuk kuliah online dan ngerjain skripsi. (sebenarnya)",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-07-06"
+    },
+    {
+      "id": "ULS-0580",
+      "nama_penulis": "Dewi S.",
+      "teks": "Tekanan air kran kamar mandi sangat kecil kalau pagi hari.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-08-21"
+    },
+    {
+      "id": "ULS-0030",
+      "nama_penulis": "Rizky P.",
+      "teks": "Sudah setahun ngekos di sini dan selalu puas dengan pelayanannya.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-08-16"
+    },
+    {
+      "id": "ULS-0250",
+      "nama_penulis": "Agus G.",
+      "teks": "Dapur bersama bersih dan peralatan masaknya lengkap.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-06-04"
+    },
+    {
+      "id": "ULS-0160",
+      "nama_penulis": "Dimas P.",
+      "teks": "Fasilitas lengkap sesuai harga, air lancar dan kamar mandi terawat.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-08-09"
+    },
+    {
+      "id": "ULS-0268",
+      "nama_penulis": "Doni S.",
+      "teks": "Lingkungan tenang, aman, parkiran motor luas dan ada CCTV.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-07-18"
+    },
+    {
+      "id": "ULS-0126",
+      "nama_penulis": "Rizky N.",
+      "teks": "Udara di kos segar, ventilasi kamar bagus dan tidak pengap.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-07-31"
+    },
+    {
+      "id": "ULS-0334",
+      "nama_penulis": "Putri W.",
+      "teks": "Lokasi strategis, hanya saja suara kendaraan dari jalan raya kadang terdengar. (menurut saya)",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-07-16"
+    },
+    {
+      "id": "ULS-0480",
+      "nama_penulis": "Rian G.",
+      "teks": "Lokasi strategis, hanya saja suara kendaraan dari jalan raya kadang terdengar.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-07-23"
+    },
+    {
+      "id": "ULS-0045",
+      "nama_penulis": "Rizky W.",
+      "teks": "Sangat recommended untuk anak rantau yang butuh suasana belajar tenang.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-07-19"
+    },
+    {
+      "id": "ULS-0028",
+      "nama_penulis": "Dewi W.",
+      "teks": "Bapak dan ibu kos ramah sekali, selalu sigap kalau ada kendala fasilitas.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-07-22"
+    },
+    {
+      "id": "ULS-0583",
+      "nama_penulis": "Fajar G.",
+      "teks": "Tekanan air kran kamar mandi sangat kecil kalau pagi hari.",
+      "label": "negatif",
+      "label_awam": "Ada keluhan",
+      "tanggal": "2026-09-21"
+    },
+    {
+      "id": "ULS-0278",
+      "nama_penulis": "Rian S.",
+      "teks": "WiFi super kencang, sangat membantu untuk kuliah online dan ngerjain skripsi. (beneran)",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-09-14"
+    },
+    {
+      "id": "ULS-0152",
+      "nama_penulis": "Dewi S.",
+      "teks": "Kamar sangat bersih dan nyaman, betah tinggal di sini.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-07-17"
+    },
+    {
+      "id": "ULS-0336",
+      "nama_penulis": "Siti N.",
+      "teks": "Beneran, tempatnya oke, cuma kalau malam parkiran motor agak penuh.",
+      "label": "netral",
+      "label_awam": "Biasa saja",
+      "tanggal": "2026-05-21"
+    },
+    {
+      "id": "ULS-0014",
+      "nama_penulis": "Maya P.",
+      "teks": "Overall, lingkungan tenang, aman, parkiran motor luas dan ada cctv.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-08-02"
+    },
+    {
+      "id": "ULS-0027",
+      "nama_penulis": "Fitri P.",
+      "teks": "Beneran, udara di kos segar, ventilasi kamar bagus dan tidak pengap.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-05-22"
+    },
+    {
+      "id": "ULS-0108",
+      "nama_penulis": "Rizky H.",
+      "teks": "Bapak dan ibu kos ramah sekali, selalu sigap kalau ada kendala fasilitas.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-06-07"
+    },
+    {
+      "id": "ULS-0090",
+      "nama_penulis": "Bayu L.",
+      "teks": "Beneran, sangat recommended untuk anak rantau yang butuh suasana belajar tenang.",
+      "label": "positif",
+      "label_awam": "Terdengar puas",
+      "tanggal": "2026-09-15"
+    }
+  ]
+}
